@@ -98,7 +98,14 @@ layeredimage nemmi:
             "sprites/nemmi/8 muzzle/Scared.webp"
         attribute surprised:
             "sprites/nemmi/8 muzzle/Surprise.webp"
-
+image Crayon_village = "bg/Crayon Village Slope.png" 
+image library = "bg/library.jpg" 
+image living_room = "bg/Living Room.png" 
+image moutain = "bg/Mountain Day.png" 
+"bg/NovemBEAR Splash Screen.png" 
+image landscape = "bg/Abstract landscape.png" 
+image bedroom = "bg/Bedroom.png"
+image dream = "bg/mountain_dream.png"
 
 
 label start:
