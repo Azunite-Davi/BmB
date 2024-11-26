@@ -41,20 +41,20 @@
     "Instead, I felt as if sharp blades of cold were piercing through my skin… I was falling, much to my disgrace.  When I was about to hit the ground, bracing myself tightly, I was jolted from my dream.  In spite of all efforts to make myself more comfortable, the little to no space given to me in my slumber was incredibly tiny."
     "Still, I figured out it would be better if Miq spent the night in a more comfortable manner since he must’ve had a long train trip."
     "As soon as I thought of what his travel must have been like, a chilly sensation brushed against my fur.  Once the morning light rays slapped my eyes, it was almost identical to what I felt yesterday, in the same order of events, but this time his bed was…"
-    Empty. Devoid of the white fluffy mountain that inhabited my bed yesterday night, only a few strands of his fur matted my sheets. I wasn’t expecting him to be gone so early. Maybe he just went for a morning jog? Wasn’t he on vacation?
-    I directed myself to the bedroom door, which was left ajar. I heard sounds coming from the kitchen, and the smell of fried eggs made its way to my nostrils. I was not really used to the idea of being woken up by someone else.
-    I found him wearing an apron, still half naked, preparing breakfast for both of us.  It was cute in a way, but I got slightly worried that he might’ve needed to go to the nearest store to buy some more…
-    Shit!
-    I didn’t finish stocking everything and moving all the boxes. Mr. Sorim is going to skin me alive!
-    Quickly trying to fetch the nearest and cleanest towel available in my bedroom, I quickly took a shower. I suddenly remembered I didn’t do laundry the other day, and so all my clothes were dirty.
-    Trying to think of a possible excuse to skip work today, I heard a knock on the bathroom door. It told me someone bigger was either purposefully trying to tear down my already creaking door or had lost control of his own force.
-    m Ahh, ani bes!?
-    Again, that unknown language hammering through all my previous preconceptions of him echoes without ceasing in my mind. I shove the thought away once again and speak, trying to overpower the loudness of his voice and beating.
-    e I’m ok over here! No need to worry, Miq.
-    m Ok then.
-    m I’m frying some eggs over here, sweet.
-    That last word echoes through me like he said something completely, utterly unhinged, and yet I can\'t help but think it\'s so considerate of him.  It was perhaps a tad too early for a cute name exchange, though.
-    e Very well, I\'m coming out soon.
+    "Empty. Devoid of the white fluffy mountain that inhabited my bed yesterday night, only a few strands of his fur matted my sheets. I wasn’t expecting him to be gone so early. Maybe he just went for a morning jog? Wasn’t he on vacation?"
+    "I directed myself to the bedroom door, which was left ajar. I heard sounds coming from the kitchen, and the smell of fried eggs made its way to my nostrils. I was not really used to the idea of being woken up by someone else."
+    "I found him wearing an apron, still half naked, preparing breakfast for both of us."  "It was cute in a way, but I got slightly worried that he might’ve needed to go to the nearest store to buy some more…"
+    "Shit!"
+    "I didn’t finish stocking everything and moving all the boxes. Mr. Sorim is going to skin me alive!"
+    "Quickly trying to fetch the nearest and cleanest towel available in my bedroom, I quickly took a shower. I suddenly remembered I didn’t do laundry the other day, and so all my clothes were dirty."
+    "Trying to think of a possible excuse to skip work today, I heard a knock on the bathroom door. It told me someone bigger was either purposefully trying to tear down my already creaking door or had lost control of his own force."
+    m "Ahh, ani bes!?"
+    "Again, that unknown language hammering through all my previous preconceptions of him echoes without ceasing in my mind. I shove the thought away once again and speak, trying to overpower the loudness of his voice and beating."
+    e "I’m ok over here! No need to worry, Miq."
+    m "Ok then."
+    m "I’m frying some eggs over here, sweet."
+    "That last word echoes through me like he said something completely, utterly unhinged, and yet I can\'t help but think it\'s so considerate of him.  It was perhaps a tad too early for a cute name exchange, though."
+    e "Very well, I\'m coming out soon."
     I was prepared to hurry up so that I would not miss breakfast with my big polar bear. After drying my fur, I quickly grabbed the cleanest set of clothes I had available.
     I sat down at the kitchen table waiting for him, but when he turned around, I felt a tinge of disappointment. He placed two fried eggs in front of me, and a simple orange juice.
     I tried to question his melancholic facade, but I figured it was because I simply lacked the skill to make my house more organized.
