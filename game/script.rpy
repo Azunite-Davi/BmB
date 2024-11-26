@@ -1,45 +1,7 @@
-﻿# The script of the game goes in this file.
-init python:
-  
-    # This is set to the name of the character that is speaking, or
-    # None if no character is currently speaking.
-    speaking = None
-  
-    # This returns speaking if the character is speaking, and done if the
-    # character is not.
-    def while_speaking(name, speak_d, done_d, st, at):
-        if speaking == name:
-            return speak_d, .1
-        else:
-            return done_d, None
-  
-    # Curried form of the above.
-    curried_while_speaking = renpy.curry(while_speaking)
-  
-    # Displays speaking when the named character is speaking, and done otherwise.
-    def WhileSpeaking(name, speaking_d, done_d=Null()):
-        return DynamicDisplayable(curried_while_speaking(name, speaking_d, done_d))
-  
-    # This callback maintains the speaking variable.
-    def speaker_callback(name, event, **kwargs):
-        global speaking
-       
-        if event == "show":
-            speaking = name
-        elif event == "slow_done":
-            speaking = None
-        elif event == "end":
-            speaking = None
-  
-    # Curried form of the same.
-    speaker = renpy.curry(speaker_callback)
-
-
-# Declare characters used by this game. The color argument colorizes the
-# name of the character.
+﻿
 define e = Character("Erin")
 define m = Character(("Miq"), color="#ffc400", image="miq")
-define n = Character("Nemmi", color="#a80000", image="nemmi", cb_name="nemni", callback=speaker("nemmi"))
+define n = Character(("Nemmi"), color="#a80000", image="nemmi")
 
 
 layeredimage miq:
@@ -87,20 +49,9 @@ layeredimage miq:
         attribute Closed:
             "sprites/miq/Closed.webp"
 
-image nemmi_speaking:
-    "sprites/nemmi/8 muzzle/Normal.png"
-    0.1
-    "sprites/nemmi/8 muzzle/Talk.png"
-    repeat
-
-image nemmi_idle:
-    "sprites/nemmi/8 muzzle/Normal.png"
 
 layeredimage nemmi:
     zoom 0.35
-    group mouth:
-        attribute normal default:
-            WhileSpeaking("nemmi", "nemmi_speaking", "nemmi_idle")
 
     group body:
         attribute backhair default:
