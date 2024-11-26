@@ -138,35 +138,35 @@
     m "Shall we go back to your home? I’ve gathered enough data about this town and its history-"
     e "Wait, wait, what about this book right here?"
     "Looking at the book, the page I’ve been staring at for the past hour had vanished, along with all of the intricate drawings, and the message behind it."
-    It was gone, replaced by a poem:
-    Overtaken by guilt
-    Pierced by their hollow labor
-    Mirror of the soul
-    Yearns for the pure gesture
-    Shrouded in darkness
-    Washed, bleached of their colors.
-    Seeking meaning through words that seemed more like a spell, I became thoroughly disappointed.
-    Did I just imagine that? What the fuck is this?
-    Being pulled out of my mind again by this puzzling book, I close it and toss it over the table in an act of primitive rage or perhaps dread. The scariest thing about the book was knowing it had a beautiful pattern that soon faded away in the blink of my eyes.
-    m Hey, hey, big boy.
-    m No need to toss it away.
+    "It was gone, replaced by a poem:"
+   # Overtaken by guilt,
+   # Pierced by their hollow labor.
+   # Mirror of the soul,
+  #  Yearns for the pure gesture.
+   # Shrouded in darkness,
+  #  Washed, bleached of their colors.
+   "Trying to seek meaning through words that. seemed more like a spell, I became thoroughly disappointed."
+    "Did I just imagine that? What the fuck is this?"
+    "Being pulled out of my mind again by this puzzling book, I close it and toss it over the table in an act of primitive rage or perhaps dread. The scariest thing about the book was knowing it had a beautiful pattern that soon faded away in the blink of my eyes."
+    m "Hey, hey, big boy."
+    m "No need to toss it away."
     e Right, sorry. I just saw something scary flash before my eyes.
-    m Hmm, whatever is was, we need to be off.  There’s no time for babbling. I heard people were in danger.
-    e Oh really? Why, though?
-    m Jeez, you\'ve been so immersed in this book you missed the storm outside.
-    e Well, I guess it’s to be expected. I\'m already used to storms.
-    m I don\'t know how you weren’t aware of it. That storm was enormous and scary even if you wanted to deny it.
-    m Come on, sweet, we should see if anyone\'s in danger.
-    Gripping on my paw, he pulled me towards the main aisle and through the entire library, swinging me like a ragdoll and taking notice of all of my movements.
-    The outside came like a blinding light, and puddles were everywhere. As a result of windy rain, there were more branches, leaves, and debris than usual.
-    A few sirens followed by loud screens of desperation were heard all across the street.
-    W: Where\'s my boy!?
-    W: He left home this morning but hasn\'t returned yet.
-    A police officer approached her on the verge of hyperventilating, reaching for air as if she was containing her panic attack.
-    As the truth started to settle down on her, what once were desperate yells of a mother looking for her missing son turned into streams of tears by the unsettling truth that her son was gone.
-    I tried to make sense of the almost theatrical scene that just played out before me.
-    Someone should tell me what happened.
-    Wishing no one had been hurt other than the little boy, the mother was still crying for her loss.
+    m "Hmm, whatever is was, we need to be off. There’s no time for babbling. I heard people were in danger."
+    e "Oh really? Why, though?"
+    m "Jeez, you\'ve been so immersed in this book you missed the storm outside."
+    e "Well, I guess it’s to be expected. I\'m already used to storms."
+    m "I don\'t know how you weren’t aware of it. That storm was enormous and scary even if you wanted to deny it."
+    m "Come on, sweet, we should see if anyone\'s in danger."
+    "Gripping on my paw, he pulled me towards the main aisle and through the entire library, swinging me like a ragdoll and taking notice of all of my movements."
+    "The outside came like a blinding light, and puddles were everywhere. As a result of windy rain, there were more branches, leaves, and debris than usual."
+   " A few sirens followed by loud screens of desperation were heard all across the street."
+    "W: Where\'s my boy!?"
+    "W: He left home this morning but hasn\'t returned yet."
+   " A police officer approached her on the verge of hyperventilating, reaching for air as if she was containing her panic attack."
+    "As the truth started to settle down on her, what once were desperate yells of a mother looking for her missing son turned into streams of tears by the unsettling truth that her son was gone."
+    "I tried to make sense of the almost theatrical scene that just played out before me."
+    "Someone should tell me what happened."
+    "Wishing no one had been hurt other than the little boy, the mother was still crying for her loss."
     "I wish no more tragedies would hit this town, even though those words were pointless to utter in my mind."
     "Waiting for… Answers. Real answers."
     "Answers about all the events that had unfolded in the last days or so made me feel I\'ve only just started living. Everything before this storm fading away like the disappearing contents of the book. Miq and…	"
