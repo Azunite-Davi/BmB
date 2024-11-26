@@ -55,91 +55,89 @@
     m "I’m frying some eggs over here, sweet."
     "That last word echoes through me like he said something completely, utterly unhinged, and yet I can\'t help but think it\'s so considerate of him.  It was perhaps a tad too early for a cute name exchange, though."
     e "Very well, I\'m coming out soon."
-    I was prepared to hurry up so that I would not miss breakfast with my big polar bear. After drying my fur, I quickly grabbed the cleanest set of clothes I had available.
-    I sat down at the kitchen table waiting for him, but when he turned around, I felt a tinge of disappointment. He placed two fried eggs in front of me, and a simple orange juice.
-    I tried to question his melancholic facade, but I figured it was because I simply lacked the skill to make my house more organized.
-    I should consider organizing my stuff later today, but checking on work is a priority.
-    m Today I didn’t receive a proper good morning from you! hehehe.
-    e Very well, you\'ve earned your good morning, my…?
-    m Oh, don\'t worry about formality, right now or ever.  Let\'s just call ourselves whatever.
-    e Oh, I see, I thought you\'d be mad.
-    m No worries, sweet.
-    Again, it echoes through my mind, back and forth, creating a huge weight on me. Given the right circumstances, it might have looked fine, but now it sounds alien to my ears.
-    I wanted to rip my ears apart every damn time he said those words, and yet, it felt genuine, like I was really in for a win.
-    Finally, I\'ve found someone of my liking. And he\'s even a professor at an amazing university.
-    As the last spoonful of breakfast enters my mouth, I am reminded of my job, tormenting my mind again with a myriad of intrusive thoughts. I consider possibly quitting it for the sake of my sanity.
-    Mr. Sorim abused his staff as much as he liked, and I am his primary target. Thankfully, he\'s too old to go to the store’s lower floor very often.
-    Coming back to an empty plate, the polar bear seemed happy to touch my fur, but once I noticed his enjoyment, he quickly switched to a more serious demeanor.
-    I was once again prompted to go about my day, but this time, it was different. He was with someone else. Could we already be considered boyfriends?
-    No, no, this is getting out of control. We\'re just very friendly with each other.
-    I wouldn\'t mind skipping my job once again.  After all, my big polar bear cannot be left unattended to wander astray!
-    m Hey, were you expecting a letter?
-    m I pretty much believe those are things from the past, not that I\'m very aware of how technologically adept you guys are-
-    e Nah, throw it away. There\'s always someone putting trash in my mailbox.
-    e They even have the audacity to put on falsified stamps.
-    m If you say so.
-    Taking the letter off the ground…
-    [Never mind…]
-    Crushing it into a ball of paper, I noticed there was something oddly different this time.
-    Other than the clear lack of a falsified stamp, or any stamps for that matter, the envelope seemed to be flimsy, and its contents were scattered everywhere.
-    I paid no attention, though, as Miq opened the door to reveal this peculiar place. It was always roughly the same climate and temperature.
-    Mr. Sorim’s other favorite pastime is amateur meteorology. He believes this city is plagued with a curse that will not be lifted until something dramatic happens.
-    I\'m indifferent to his claims, whether or not they\'re true.  Everyone likes this weather, and agriculture was never affected, so why bother?
-    I\'ve forgotten the meaning of heat waves or the warmth of the sun\'s rays because every day, I\'m bathed in such faint light that escapes from the abrasive embrace of the clouds.
-    Miq pushed me out of my trance, which blurred reality into a confusing mess of memories and contemplation—something I\'ve become used to in the last years or so.
-    He snapped me back to reality.
-    m So, today, we don\'t have much planned unless you know of any museum or library with the city\'s history.
-    e We do.
-    e We were by the municipal museum’s park yesterday… When you took your shirt off…
-    Ignoring the last bit of uncomfortableness in my speech pattern, I thought of the possible horrible outcomes of being seen with a half-naked guy, and whether it would lead others to think worse of me…
-
-    m Ah, that\'ll do.
-    m Let\'s be off then and not delay any more.
-    e On it!
-    Leaving the house wasn’t an arduous task. What was challenging was how I would deal with Mr. Sorim, but that was for another time.
-    Walking by his side was our most distressing yet comforting activity so far. Ghosts populated this place, and the deafening silence was a stark, yet notable characteristic.
-    Maybe forgotten by God was the best description someone could give to this town. Even the local priest was somehow always absent.   Mr. Sorim’s brother, F. Reven was even more distressed than his brother.
-    At least F. Reven was always busy commuting with God in whatever macabre seances he must perform in the church\'s sacred soil.
-    Swiftly returning to reality, I recalled all the times I found myself daydreaming just today — more than ten times already — of possible scenarios and unattainable results.
-    I once did the same path a few months ago to check on my personal documents, but now Miq was leading the way. He told me he had a town map on the way, yet curiously he had asked me about the museum…
-    The institution stood firm, its weathered facade bearing the passage of time. Some features had been remodeled over the years whenever extra funds were generously donated to it.
-    It was one of the few places in town with telephones and computers, but I barely used them. Books were still the most reliable for most of my research…
-    Whatever Miq’s research may be, I’m here to support him in every possible way.
-    Arriving at the museum, I noticed he began scratching his chin and shoulders in a worrisome way.  I wanted to ask him if everything was ok, but hid my face in response to his thundering speech towering over all the other sounds.
-    m Very well.
-    m I hope we may find all the necessary documents to dissect what this town has to offer.
-    Walking down to the reception, Miq tried to soften his voice to no avail.
-    m Good morning, ma’am. May I please be directed to the town’s historical records and possible maps?
-    The lady swiftly tilted her head to take a better look at us, examining our features.
-    Finally, she sighed and started typing something, presumably looking in the records of the library.
-    Receptionist: It\'s on wing Q34, a bit further back on this floor. Enjoy your reading.
-    m Thanks!
-    Rushing through the disarray of unpacked boxes covered in years of thick layers of dust made searching even more unbearable. I was coughing like hell, and I couldn’t keep my nose away from it. I started sneezing uncontrollably.
-    After switching between sitting and standing to pick up and return books, a single hardcover stood out to me. It was a book Miq had shoved to the side in hopes of finding something even more useful for his research…
-    He never told me what he was looking for exactly, a topic so elusive, he didn’t mention it to me until now.  I thought it was a bit strange after the time we had spent together recently.
-    Regardless, I was sure he would eventually tell me about his research, whether or not it mattered for me to know it.
-    Upon returning to the book that lay open on the desk just a few inches from me, I sat down and started to flip some pages, perusing it to make sure we didn’t miss something important.
-    Something caught my attention. This book seemed strange, unlike the others. I looked at the cover, but it had no title. It contained only handwritten pages, similar to a journal, but Latin was plastered all over it. I couldn’t decipher it, so I thought about asking Miq.
-    Suddenly, a strong wind forced the windows open, followed by heavy downpour without warning. Each heavy drop of water begged to be heard, so closing the old rusty windows was imperative.
-    Thunder followed.  A storm was forming outside, growing more intense by the second. It seemed as if someone called upon the four winds to blow and shatter.
-    From another opened window, pages of the ever-mysterious book I was trying to focus on flipped furiously, revealing a myriad of strange patterns I had yet to analyze.
-    The receptionist rose from her seat to quickly close all the windows, including the one responsible for the gust that furiously flipped through the pages of the strange book.
-    Upon close inspection, the page it landed on was almost mesmerizing, different from any painting I’d ever seen.
-    Akin to a Renaissance painting… No, more like one of those books on occultism with hundreds of ciphers. The book proudly displayed its most confusing page to me, elusive of meaning.
-
-    I paid no attention as time passed.  I kept exploring every crevice of that image, probably printed page by page with Gutenberg’s invention and distributed only by the most secretive societies of the age, somehow ending up here.
-    A white fur paw passed in front of my muzzle, attempting to bring me back to reality, but my brain barely registered it.
-    m Hey, bookworm, you’ve been staring at this page for half an hour.
-    m You good, sweet?
-    His speech jolted me from my self-induced trance. I finally began to reassess my surroundings. It seemed nothing changed apart from a few more books being opened or closed.
-    m Erin?
-    e Oh, hi, I just-
-    e Well, this book was so interesting.  I think I lost track of time…
-    Looking rather uncomfortable and still doubting my half-assed excuse, he decided to play along.
-    m *Sigh* Right…
-    m Shall we go back to your home? I’ve gathered enough data about this town and its history-
-    e Wait, wait, what about this book right here?
-    Looking at the book, the page I’ve been staring at for the past hour had vanished, along with all of the intricate drawings, and the message behind it.
+    "I was prepared to hurry up so that I would not miss breakfast with my big polar bear. After drying my fur, I quickly grabbed the cleanest set of clothes I had available."
+   " I sat down at the kitchen table waiting for him, but when he turned around, I felt a tinge of disappointment. He placed two fried eggs in front of me, and a simple orange juice."
+    "I tried to question his melancholic facade, but I figured it was because I simply lacked the skill to make my house more organized."
+    "I should consider organizing my stuff later today, but checking on work is a priority."
+    m "Today I didn’t receive a proper good morning from you! hehehe."
+    e "Very well, you\'ve earned your good morning, my…?"
+    m "Oh, don\'t worry about formality, right now or ever.  Let\'s just call ourselves whatever."
+    e "Oh, I see, I thought you\'d be mad."
+    m "No worries, sweet."
+    "Again, it echoes through my mind, back and forth, creating a huge weight on me. Given the right circumstances, it might have looked fine, but now it sounds alien to my ears."
+    "I wanted to rip my ears apart every damn time he said those words, and yet, it felt genuine, like I was really in for a win."
+    "Finally, I\'ve found someone of my liking. And he\'s even a professor at an amazing university."
+    "As the last spoonful of breakfast enters my mouth, I am reminded of my job, tormenting my mind again with a myriad of intrusive thoughts. I consider possibly quitting it for the sake of my sanity."
+    "Mr. Sorim abused his staff as much as he liked, and I am his primary target." "Thankfully, he\'s too old to go to the store’s lower floor very often."
+   " Coming back to an empty plate, the polar bear seemed happy to touch my fur, but once I noticed his enjoyment, he quickly switched to a more serious demeanor."
+    "I was once again prompted to go about my day, but this time, it was different. He was with someone else. Could we already be considered boyfriends?"
+    "No, no, this is getting out of control." "We\'re just very friendly with each other."
+    "I wouldn\'t mind skipping my job once again.  After all, my big polar bear cannot be left unattended to wander astray!"
+    m "Hey, were you expecting a letter?"
+    m "I pretty much believe those are things from the past, not that I\'m very aware of how technologically adept you guys are-"
+    e "Nah, throw it away. There\'s always someone putting trash in my mailbox."
+    e "They even have the audacity to put on falsified stamps."
+    m "If you say so."
+    "Taking the letter off the ground…"
+    # [Never mind…]
+    "Crushing it into a ball of paper, I noticed there was something oddly different this time."
+    "Other than the clear lack of a falsified stamp, or any stamps for that matter, the envelope seemed to be flimsy, and its contents were scattered everywhere."
+    "I paid no attention, though, as Miq opened the door to reveal this peculiar place. It was always roughly the same climate and temperature."
+    "Mr. Sorim’s other favorite pastime is amateur meteorology. He believes this city is plagued with a curse that will not be lifted until something dramatic happens."
+    "I\'m indifferent to his claims, whether or not they\'re true.  Everyone likes this weather, and agriculture was never affected, so why bother?"
+    "I\'ve forgotten the meaning of heat waves or the warmth of the sun\'s rays because every day, I\'m bathed in such faint light that escapes from the abrasive embrace of the clouds."
+    "Miq pushed me out of my trance, which blurred reality into a confusing mess of memories and contemplation—something I\'ve become used to in the last years or so."
+    "He snapped me back to reality."
+    m "So, today, we don\'t have much planned unless you know of any museum or library with the city\'s history."
+    e "We do."
+    e "We were by the municipal museum’s park yesterday… When you took your shirt off…"
+   " Ignoring the last bit of uncomfortableness in my speech pattern, I thought of the possible horrible outcomes of being seen with a half-naked guy, and whether it would lead others to think worse of me…"
+    m "Ah, that\'ll do."
+    m "Let\'s be off then and not delay any more."
+    e "On it!"
+    "Leaving the house wasn’t an arduous task. What was challenging was how I would deal with Mr. Sorim, but that was for another time."
+    "Walking by his side was our most distressing yet comforting activity so far. Ghosts populated this place, and the deafening silence was a stark, yet notable characteristic."
+    "Maybe forgotten by God was the best description someone could give to this town. Even the local priest was somehow always absent.   Mr. Sorim’s brother, F. Reven was even more distressed than his brother."
+    "At least F. Reven was always busy commuting with God in whatever macabre seances he must perform in the church\'s sacred soil."
+    "Swiftly returning to reality, I recalled all the times I found myself daydreaming just today — more than ten times already — of possible scenarios and unattainable results."
+    "I once did the same path a few months ago to check on my personal documents, but now Miq was leading the way. He told me he had a town map on the way, yet curiously he had asked me about the museum…"
+    "The institution stood firm, its weathered facade bearing the passage of time. Some features had been remodeled over the years whenever extra funds were generously donated to it."
+    "It was one of the few places in town with telephones and computers, but I barely used them. Books were still the most reliable for most of my research…"
+    "Whatever Miq’s research may be, I’m here to support him in every possible way."
+    "Arriving at the museum, I noticed he began scratching his chin and shoulders in a worrisome way.  I wanted to ask him if everything was ok, but hid my face in response to his thundering speech towering over all the other sounds."
+    m "Very well."
+    m "I hope we may find all the necessary documents to dissect what this town has to offer."
+    "Walking down to the reception, Miq tried to soften his voice to no avail."
+    m "Good morning, ma’am. May I please be directed to the town’s historical records and possible maps?"
+    "The lady swiftly tilted her head to take a better look at us, examining our features."
+    "Finally, she sighed and started typing something, presumably looking in the records of the library."
+    Receptionist: "It\'s on wing Q34, a bit further back on this floor. Enjoy your reading."
+    m "Thanks!"
+    "Rushing through the disarray of unpacked boxes covered in years of thick layers of dust made searching even more unbearable. I was coughing like hell, and I couldn’t keep my nose away from it. I started sneezing uncontrollably."
+    "After switching between sitting and standing to pick up and return books, a single hardcover stood out to me. It was a book Miq had shoved to the side in hopes of finding something even more useful for his research…"
+    "He never told me what he was looking for exactly, a topic so elusive, he didn’t mention it to me until now.  I thought it was a bit strange after the time we had spent together recently."
+    "Regardless, I was sure he would eventually tell me about his research, whether or not it mattered for me to know it."
+    "Upon returning to the book that lay open on the desk just a few inches from me, I sat down and started to flip some pages, perusing it to make sure we didn’t miss something important."
+    "Something caught my attention. This book seemed strange, unlike the others. I looked at the cover, but it had no title. It contained only handwritten pages, similar to a journal, but Latin was plastered all over it. I couldn’t decipher it, so I thought about asking Miq."
+    "Suddenly, a strong wind forced the windows open, followed by heavy downpour without warning. Each heavy drop of water begged to be heard, so closing the old rusty windows was imperative."
+    "Thunder followed.  A storm was forming outside, growing more intense by the second. It seemed as if someone called upon the four winds to blow and shatter."
+    "From another opened window, pages of the ever-mysterious book I was trying to focus on flipped furiously, revealing a myriad of strange patterns I had yet to analyze."
+    "The receptionist rose from her seat to quickly close all the windows, including the one responsible for the gust that furiously flipped through the pages of the strange book."
+    "Upon close inspection, the page it landed on was almost mesmerizing, different from any painting I’d ever seen."
+    "Akin to a Renaissance painting… No, more like one of those books on occultism with hundreds of ciphers. The book proudly displayed its most confusing page to me, elusive of meaning."
+    "I paid no attention as time passed.  I kept exploring every crevice of that image, probably printed page by page with Gutenberg’s invention and distributed only by the most secretive societies of the age, somehow ending up here."
+    "A white fur paw passed in front of my muzzle, attempting to bring me back to reality, but my brain barely registered it."
+    m "Hey, bookworm, you’ve been staring at this page for half an hour."
+    m "You good, sweet?"
+    "His speech jolted me from my self-induced trance. I finally began to reassess my surroundings. It seemed nothing changed apart from a few more books being opened or closed."
+    m "Erin?'
+    e 'Oh, hi, I just-"
+    e "Well, this book was so interesting.  I think I lost track of time…"
+    "Looking rather disheveled of self awareness and still doubting my half-assed excuse, he decided to play along."
+    m "*Sigh* Right…"
+    m "Shall we go back to your home? I’ve gathered enough data about this town and its history-"
+    e "Wait, wait, what about this book right here?"
+    "Looking at the book, the page I’ve been staring at for the past hour had vanished, along with all of the intricate drawings, and the message behind it."
     It was gone, replaced by a poem:
     Overtaken by guilt
     Pierced by their hollow labor
