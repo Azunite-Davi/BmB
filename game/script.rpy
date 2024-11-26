@@ -55,7 +55,7 @@ layeredimage nemmi:
     zoom 0.35
     group body:
         attribute body default:
-            "sprites/nemmi/nemmibody.webp"
+            "sprites/nemmi/nemmibody.png"
 
     group shirts:
         attribute BlackHoodie:

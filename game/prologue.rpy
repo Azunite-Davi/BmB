@@ -1,4 +1,5 @@
 label prologue:
+    show landscape with dissolve
     "The cold bitterness that plagued the still hall of moment-captured memories and sealed cardboard boxes felt extremely vacant with forgotten ghosts from yore that day."
     "Moving away from chaos was always a dream of ours, and in 1958, Dad finally got the perfect opportunity…"
     "Dad was the pillar that held us together against all the world’s uncertainties."  
