@@ -45,7 +45,8 @@ define build.name = "Bear My Breath"
 ## These three variables control, among other things, which mixers are shown
 ## to the player by default. Setting one of these to False will hide the
 ## appropriate mixer.
-
+define config.default_music_volume = 0.7
+define config.default_sfx_volume = 0.7
 define config.has_sound = True
 define config.has_music = True
 define config.has_voice = True
@@ -120,7 +121,7 @@ define config.window_hide_transition = Dissolve(.2)
 ## Controls the default text speed. The default, 0, is infinite, while any other
 ## number is the number of characters per second to type out.
 
-default preferences.text_cps = 0
+default preferences.text_cps = 0.5
 
 
 ## The default auto-forward delay. Larger numbers lead to longer waits, with 0

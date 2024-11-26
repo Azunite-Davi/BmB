@@ -106,16 +106,3 @@ image moutain = "bg/Mountain Day.png"
 image landscape = "bg/Abstract landscape.png" 
 image bedroom = "bg/Bedroom.png"
 image dream = "bg/mountain_dream.png"
-
-
-label start:
-    show nemmi normal short Tanktop 
-    "lorem ipsum muspi merol"
-    n talk "Bundinha!"
-    "lorem ipsum"
-    show miq undie Open at right 
-    m "aaaaaaaaaaaaaaaaaaaaaa"
-    "bbbbbb"
-
-
-return 
