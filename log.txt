@@ -1,32 +1,32 @@
-2024-11-26 03:21:41 UTC
+2024-11-26 18:06:38 UTC
 Windows-10-10.0.19045
 Ren'Py 8.3.2.24090902
 
-Early init took 0.14s
-Loading error handling took 0.06s
-Loading script took 0.22s
+Early init took 0.27s
+Loading error handling took 0.05s
+Loading script took 0.19s
 Loading save slot metadata took 0.03s
 Loading persistent took 0.00s
-Running init code took 0.08s
+Running init code took 0.10s
 Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
+Reloading save slot metadata took 0.02s
 Index archives took 0.00s
-Dump and make backups took 0.10s
+Dump and make backups took 0.12s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.09s
+Initial gc took 0.13s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.00s
+Creating interface object took 0.01s
 Cleaning stores took 0.00s
-Init translation took 0.08s
+Init translation took 0.07s
 Build styles took 0.01s
-Load screen analysis took 0.07s
+Load screen analysis took 0.05s
 Analyze screens took 0.00s
 Save screen analysis took 0.00s
-Prepare screens took 0.21s
+Prepare screens took 0.18s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.00s
 Running _start took 0.00s
@@ -42,29 +42,75 @@ Version: b'4.6.14761 Compatibility Profile Context 21.30.14 30.0.13014.8'
 Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
 Maximum texture size: 4096x4096
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.01s
-Load screen analysis took 0.04s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
 Resetting cache.
-Early init took 534.73s
+Early init took 753.03s
+Loading error handling took 0.05s
+Loading script took 0.29s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+
+File "game/day_1.rpy", line 7: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    "Hypnotized by my erection, all other things he planned for that morning slowly melted away, like butter on a hot pan.  All I could do was stare and think of how to treat myself accordingly."
+    ^
+
+File "game/day_1.rpy", line 61: expected statement.
+    Then Nemmi came into action. He knew how much I suffered at the paws of those school bullies, having my tail pulled and my ears pulled as if to tear them apart. Nemmi put a halt to that, and he tightly held my paw that day. I felt strong by his side; he’d always keep me safe.
+                               ^
+
+File "game/day_1.rpy", line 62: expected statement.
+    Well, if not for the fact that he was a bear, even bigger than average bears. I think people got the right message.
+        ^
+
+File "game/day_1.rpy", line 63: expected statement.
+    And so, we’d hang out every day. For once, I found myself a friend, someone I could rely on, and to the testament of time, we both carved our names in the oldest tree in City Central Park by the library.
+          ^
+
+File "game/day_1.rpy", line 64: expected statement.
+    The day he stopped hanging out with me, I felt lonely and even confused as to why Nemmi would throw everything away so suddenly. But I guess that explains it.
+                                   ^
+
+File "game/day_1.rpy", line 65: expected statement.
+    n  *Sigh* I’m sorry for all the pain I’ve caused by leaving you without an explanation. It has only recently come to my attention that my depression worsened things to such a degree that I couldn’t go out and-
+       ^
+
+File "game/day_1.rpy", line 66: expected statement.
+    e It’s ok Nemmi.
+                   ^
+
+File "game/day_1.rpy", line 67: expected statement.
+    e I’ve missed you greatly, and now that you’re sort of back…
+                             ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.16s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon(TM) RX Vega 11 Graphics'
+Version: b'4.6.14761 Compatibility Profile Context 21.30.14 30.0.13014.8'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 803.07s
 Loading error handling took 0.04s
-Loading script took 0.30s
+Loading script took 0.22s
 Loading save slot metadata took 0.03s
 Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
+Running init code took 0.07s
+Loading analysis data took 0.03s
 Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
+Reloading save slot metadata took 0.03s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\Pc_Bia\\AppData\\Roaming/RenPy/backups\\BmB':
 Dump and make backups took 0.10s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.11s
+Initial gc took 0.10s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
@@ -75,7 +121,7 @@ Build styles took 0.01s
 Load screen analysis took 0.00s
 Analyze screens took 0.03s
 Save screen analysis took 0.04s
-Prepare screens took 0.15s
+Prepare screens took 0.18s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.02s
 Running _start took 0.00s
@@ -91,19 +137,156 @@ Version: b'4.6.14761 Compatibility Profile Context 21.30.14 30.0.13014.8'
 Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
 Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/prologue.rpy", line 24, in script
+    jump day_1
+  File "C:\Users\Pc_Bia\Desktop\misc\renpy-8.2.3-sdk\renpy\ast.py", line 1699, in execute
+    rv = renpy.game.script.lookup(target)
+  File "C:\Users\Pc_Bia\Desktop\misc\renpy-8.2.3-sdk\renpy\script.py", line 1103, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'day_1'.
+
+While running game code:
+  File "game/prologue.rpy", line 24, in script
+    jump day_1
+ScriptError: could not find label 'day_1'.
 Resetting cache.
-Early init took 592.52s
-Loading error handling took 0.03s
-Loading script took 0.28s
-Loading save slot metadata took 0.06s
+Early init took 809.49s
+Loading error handling took 0.15s
+Loading script took 0.37s
+Loading save slot metadata took 0.04s
 Loading persistent took 0.00s
-Running init code took 0.12s
-Loading analysis data took 0.03s
+
+File "game/prologue.rpy", line 24: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    show nemmi normal short Tanktop 
+    ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 0.22s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon(TM) RX Vega 11 Graphics'
+Version: b'4.6.14761 Compatibility Profile Context 21.30.14 30.0.13014.8'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 827.76s
+Loading error handling took 0.04s
+Loading script took 0.24s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.03s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\Pc_Bia\\AppData\\Roaming/RenPy/backups\\BmB':
-Dump and make backups took 0.12s
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.04s
+Prepare screens took 0.20s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon(TM) RX Vega 11 Graphics'
+Version: b'4.6.14761 Compatibility Profile Context 21.30.14 30.0.13014.8'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/prologue.rpy", line 36, in script
+    jump day_1
+  File "C:\Users\Pc_Bia\Desktop\misc\renpy-8.2.3-sdk\renpy\ast.py", line 1699, in execute
+    rv = renpy.game.script.lookup(target)
+  File "C:\Users\Pc_Bia\Desktop\misc\renpy-8.2.3-sdk\renpy\script.py", line 1103, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'day_1'.
+
+While running game code:
+  File "game/prologue.rpy", line 36, in script
+    jump day_1
+ScriptError: could not find label 'day_1'.
+Resetting cache.
+Early init took 837.40s
+Loading error handling took 0.04s
+Loading script took 0.23s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.08s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Pc_Bia\\AppData\\Roaming/RenPy/backups\\BmB':
+Dump and make backups took 0.11s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.11s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.03s
+Save screen analysis took 0.04s
+Prepare screens took 0.18s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon(TM) RX Vega 11 Graphics'
+Version: b'4.6.14761 Compatibility Profile Context 21.30.14 30.0.13014.8'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1042.26s
+Loading error handling took 0.05s
+Loading script took 0.38s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.13s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Pc_Bia\\AppData\\Roaming/RenPy/backups\\BmB':
+Dump and make backups took 0.13s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc took 0.14s
@@ -112,13 +295,13 @@ nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.08s
+Init translation took 0.09s
 Build styles took 0.01s
 Load screen analysis took 0.00s
-Analyze screens took 0.03s
+Analyze screens took 0.04s
 Save screen analysis took 0.05s
-Prepare screens took 0.19s
-Save pyanalysis. took 0.00s
+Prepare screens took 0.18s
+Save pyanalysis. took 0.03s
 Save bytecode. took 0.03s
 Running _start took 0.00s
 Interface start took 0.08s
@@ -133,3 +316,27 @@ Version: b'4.6.14761 Compatibility Profile Context 21.30.14 30.0.13014.8'
 Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
 Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/prologue.rpy", line 26, in script
+    n "Hamburger?"
+  File "C:\Users\Pc_Bia\Desktop\misc\renpy-8.2.3-sdk\renpy\ast.py", line 2573, in execute
+    Say.execute(self)
+  File "C:\Users\Pc_Bia\Desktop\misc\renpy-8.2.3-sdk\renpy\ast.py", line 615, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+  File "C:\Users\Pc_Bia\Desktop\misc\renpy-8.2.3-sdk\renpy\exports\sayexports.py", line 132, in say
+    who(what, *args, **kwargs)
+  File "C:\Users\Pc_Bia\Desktop\misc\renpy-8.2.3-sdk\renpy\character.py", line 1455, in __call__
+    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
+  File "C:\Users\Pc_Bia\Desktop\misc\renpy-8.2.3-sdk\renpy\character.py", line 1106, in do_display
+    display_say(who,
+  File "C:\Users\Pc_Bia\Desktop\misc\renpy-8.2.3-sdk\renpy\character.py", line 627, in display_say
+    callback("begin")
+  File "C:\Users\Pc_Bia\Desktop\misc\renpy-8.2.3-sdk\renpy\character.py", line 91, in __call__
+    c(*args, **kwargs)
+TypeError: speaker_callback() got multiple values for argument 'name'
+
+While running game code:
+  File "game/prologue.rpy", line 26, in script
+    n "Hamburger?"
+TypeError: speaker_callback() got multiple values for argument 'name'

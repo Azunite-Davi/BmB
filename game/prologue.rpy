@@ -21,4 +21,16 @@ label prologue:
     "From that day on, I never saw Nemmi again. Even at school, he was always absent, skipping class or not even leaving his home. Some kids thought about visiting him."
     "But it was as if Nemmi was gone…"
     "And once again, I was afraid."
-    jump day_1
+    
+    show nemmi normal short Tanktop 
+    n "Hamburger?"
+    "lorem ipsum"
+    n "thing"
+    "not thing"
+    n "oh look a bird?"
+    show miq undie Open at right 
+    m "aaaaaaaaaaaaaaaaaaaaaa"
+    "bbbbbb"
+
+
+    # jump day_1
