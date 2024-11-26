@@ -1,1 +1,1 @@
-{"error": true, "size": [1920, 1080], "name": "Bear My Breath", "version": "0.0.1", "location": {"label": {"day_2": ["game/day_2.rpy", 1], "day_3": ["game/day_3.rpy", 1]}, "define": {}, "screen": {}, "transform": {}, "callable": {}}}
+{"error": true, "size": [1920, 1080], "name": "Bear My Breath", "version": "0.0.1", "location": {"label": {"day_3": ["game/day_3.rpy", 1]}, "define": {}, "screen": {}, "transform": {}, "callable": {}}}

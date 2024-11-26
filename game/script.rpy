@@ -2,7 +2,8 @@
 define e = Character("Erin")
 define m = Character(("Miq"), color="#ffc400", image="miq")
 define n = Character(("Nemmi"), color="#a80000", image="nemmi")
-
+define o = Character("Obelisk")
+define l = Character("Mul")
 
 layeredimage miq:
     zoom 0.35
