@@ -1,5 +1,6 @@
-    label day_3:
-        "The next day, I woke up as if nothing had happened last night, ignoring all the urges to scream or ignore the storm that formed in my mind and quickly went out."
+label day_3:
+
+    "The next day, I woke up as if nothing had happened last night, ignoring all the urges to scream or ignore the storm that formed in my mind and quickly went out."
     "I don’t remember if we did anything else. Maybe I blacked out, or we continued to talk. Maybe I retreated to the back of my mind."
     "Regardless, I was ready to go to work once again, but not before checking on Miq, who was weirdly rushing to take a bath. As soon as he left the bathroom, still in a bathing suit, he started cooking."
     "Still rubbing my sleepy eyes, I noticed I was barely clothed and sitting on the kitchen counter, waiting for the plate he had just placed in front of me."
@@ -128,4 +129,4 @@
     "As did I."
     "…"
 
-        return
+return

@@ -1,4 +1,4 @@
-    label day_2:
+label day_2:
 
     "It felt like a stream of endless colors tainting my vision.  My dream consisted of all kinds of unknown figures, beasts, and random memories, all mixed together like a soup that was about to start boiling."
     "Everything went quiet. A deafening silence was followed by an abyss that swallowed all my senses. Maybe everything was so quiet because I had been swallowed, gobbled up by some kind of monster."
@@ -111,7 +111,7 @@
     m "Good morning, ma’am. May I please be directed to the town’s historical records and possible maps?"
     "The lady swiftly tilted her head to take a better look at us, examining our features."
     "Finally, she sighed and started typing something, presumably looking in the records of the library."
-    Receptionist: "It\'s on wing Q34, a bit further back on this floor. Enjoy your reading."
+    "Receptionist" "It\'s on wing Q34, a bit further back on this floor. Enjoy your reading."
     m "Thanks!"
     "Rushing through the disarray of unpacked boxes covered in years of thick layers of dust made searching even more unbearable. I was coughing like hell, and I couldn’t keep my nose away from it. I started sneezing uncontrollably."
     "After switching between sitting and standing to pick up and return books, a single hardcover stood out to me. It was a book Miq had shoved to the side in hopes of finding something even more useful for his research…"
@@ -150,7 +150,7 @@
     "Being pulled out of my mind again by this puzzling book, I close it and toss it over the table in an act of primitive rage or perhaps dread. The scariest thing about the book was knowing it had a beautiful pattern that soon faded away in the blink of my eyes."
     m "Hey, hey, big boy."
     m "No need to toss it away."
-    e Right, sorry. I just saw something scary flash before my eyes.
+    e "Right, sorry. I just saw something scary flash before my eyes."
     m "Hmm, whatever is was, we need to be off. There’s no time for babbling. I heard people were in danger."
     e "Oh really? Why, though?"
     m "Jeez, you\'ve been so immersed in this book you missed the storm outside."
