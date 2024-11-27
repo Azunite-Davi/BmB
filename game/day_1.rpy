@@ -8,7 +8,7 @@ label day_1:
   "Then it hit me, a simple relief was all I needed. I began searching for one of those sports magazines I bought the other day, innocently at the time. I later saw one of the pictures was of a snow leopard who had his shorts ripped by another teammate exposing his round, bubbly ass."
   "I wasn’t expecting it when I first opened the magazine, but it seems there was a section dedicated to mishaps like this one. For others, it was a reason to laugh at the professionals… It possibly was an affront to their image, but at this moment who cares?"
   "The magazine was easy to reach. It was just a few inches away from my bed, and locating the page where his exposed butt stood was even easier. I looked at my own erect cock, and I tried to sit up, struggling, but the continuous pumping of blood to my rock-solid dick was enough motivation to keep me awake and thinking of even more lewd things."
-  "When I noticed the tip was already dried by the cold wind the open window produced, I considered a bit of lube wouldn’t hurt, but… the nearest pharmacy was a five-minute walk. I resorted to something gross, but it still worked. Spit was easy to get, and hey, it\'s not like I needed much to get it working."
+  "When I noticed the tip was already dried by the cold wind the open window produced, I considered a bit of lube wouldn’t hurt, but… the nearest pharmacy was a five-minute walk. I resorted to something gross, but it still worked. Spit was easy to get, and hey, it\\'s not like I needed much to get it working."
   "I still was disappointed that I didn’t have the courage to simply buy a porn magazine, but for the last three weeks or so, staring at this snow leopard’s shorts being ripped leaving his nude ass was enough for me to channel all my lustful thoughts."
   "Then, as the liquid that once moisturized my mouth dripped onto the tip of my cock, I pushed my foreskin up and down to spread it evenly. Almost ready, I considered perhaps looking at the other male figures that plastered the remainder of the sports magazine."
   "It makes one wonder if this was really made for people who had a more refined taste than me, but regardless, all other photos were modes, regretfully hiding their jewels and backside. Poor snow leopard… I don’t even know his name."
@@ -34,13 +34,13 @@ label day_1:
   "We kind of parted ways; we stopped talking to each other last year, but I yearned to speak to him again, see him again. I just couldn’t put it into words."
   "I never asked him if he was into men, like me, but regardless of the answer, he never seemed interested in either men or women."
   "He had a great record of being avoidant of topics pertaining to dating and liking people, which, thinking about it, both our families put greater pressure on both of us to marry intelligent, beautiful women."
-  "Putting an extra emphasis on that, it\'s tough to imagine this town would ever grow out of its closeted ideas.  They were opposed to new ideas that flowed the world abroad, repulsed by the unknown that awaited us so anxiously."
+  "Putting an extra emphasis on that, it\\'s tough to imagine this town would ever grow out of its closeted ideas.  They were opposed to new ideas that flowed the world abroad, repulsed by the unknown that awaited us so anxiously."
   "Extinguishing those thoughts, I had told myself a thousand times not to be late to work, but it was already past noon once I finally put my clothes on, hoping no one would see past my facade that I had woken up and jerked off to a snow leopard’s butt who probably wasn’t happy to be so vulnerably exposed like that.  "
   "{i}Huff… Breathe in… Breathe out…{/i}"
   "Hurriedly preparing to exit after spraying the cologne and putting my shirt on, I heard a knock on the door."
-  "Rushing to open it, I’m greeted by a familiar voice. Despite all my brain\'s efforts to ignore it, it was him."
+  "Rushing to open it, I’m greeted by a familiar voice. Despite all my brain\\'s efforts to ignore it, it was him."
   n  "Ehh, ehh, hello Erin."
-  n  "I-I know it's been some time since we last saw each other."
+  n  "I-I know it\'s been some time since we last saw each other."
   "I couldn’t believe who was standing just a few inches from me, Nemmi, it was him, after more than one year and a month, he was simply back like that."
   e "Oh, hi Nemmi, I-, I’ve missed you greatly."
   n  "I’m sorry I’ve distanced myself in the last couple of months…"
@@ -81,7 +81,7 @@ label day_1:
   "Maybe I felt like prolonging things would only result in another awkward moment, we needed to think alone, but I can’t help but wonder…"
   "{i}Why?{/i}"
   "Why didn’t Nemmi talk to me sooner?"
-  "That was, sadly, a question that wouldn\'t be answered until tomorrow."
+  "That was, sadly, a question that wouldn\\'t be answered until tomorrow."
   "Getting distracted in my own thoughts, I didn’t notice Nemmi was long gone, and I had the entire day ahead of me. And walking down the steps of my front door, I see something thrown a few paces away."
   "A frail yet beautiful attempt at a bouquet of Myosotis, it was gently and tightly packed, held together by a red ribbon."
   "I thought it was cute at first, whoever had made that. Then I came to the realization it was probably Nemmi… But again, why all these vague signs?"
@@ -93,154 +93,152 @@ label day_1:
   "On the way to work, the uneven pavement that intersected this entire town alongside dirt paths always got mud in my boots. Since I didn’t want to make my house even more filthy, I had to resort to strange hops and jumps everywhere to avoid mud puddles."
   "Our town didn’t have many cars. Gasoline was a luxurious commodity around here. Only farmers had access to heavy machinery. As a means to connect us to the outside world, the train station linked us to the big cities, factories, and the rest of our country."
   "Lost in the mountains, our town even lacked a proper name. Thus, my parents, extended family, neighbors, and many others coined their own toponyms for this place forgotten in time and space."
-  …
-  After three hours of hard work, lifting and rearranging some boxes for the local grocery store owned by Sorim, I felt tiredness surpassing every other will. Maybe I shouldn’t have masturbated so vigorously earlier.
-  Without a single warning, in the distance, I heard the train’s chimneys announcing its arrival. I remembered it had been three long years since the last time the outside world visited us.
-  Eagerly, I packed my things together and left a note for Mr. Sorim. I expected him to lash out at me for leaving the storage room so soon, but I couldn’t hide the excitement that washed over me.
-  Finally, news from the outside world. Finally, new people to see and converse with.  Finally, something new happens after three years in this place stuck in time.
-  Running to the train station, I stepped in all the puddles I had managed to avoid on the way to work. My shoes got soaked in muddy water, but the rain had stopped long ago, so I considered it fine.
-  A crowd of 13 locals or so blocked the entrance of those leaving the train; nearly 50 people from abroad had made their way here.
-  I spotted some cousins and uncles among the crowd, but I managed to avoid them all altogether because I hated family drama.  Since my parents were already a wreck, I imagined my extended family was just as bad, if not worse.  I only wanted news about the outside world and possible means to leave this wretched town.
-  I’ve never seen so many different species in three years. There were those with giant ears, strange noses, and fur patterns so different from mine that I wondered if I had been transported to another world.
-  But in the crowd of chaos, someone rather tall, with a white fur complexion, a polar bear, stood somewhat confused and amazed at the simple visual of our town. Meanwhile, I felt a sting of compassion for him… Nah, I’ll admit, he was hot, and I wanted, no, needed to approach him first.
-  But before I did, I looked around to see if Nemmi was there by any chance.  Much to my disappointment, or rather relief, Nemmi was nowhere to be seen.  Even if I saw him, I think I would be hiding.
-  I didn’t want to lie to him or keep the false pretense that my work was more important. Now that I’m here, it seems like I’m doing a great deal of back stabbing to Nemmi. I felt a bit sorry for abandoning Nemmi, my childhood friend.
-  Regardless, I have no ties to Nemmi now.  Our lives are practically separated, and since he never even bothered to show up on my birthday, I figured that was the fracture point of our friendship.
-  But then he came back today… And I shoved him aside…
-  No.
-  I can’t be seen doubting my own decisions, even if it hurts both of us… {i}or if it only hurts Nemmi{/i}.
-  Snapping back to reality, I find myself struggling to free myself from the tensed-up crowd full of greetings, trivial conversations, and vague descriptions of news of the outside world.
-  Each one had a weird slate device that lit up whenever they tapped on it. I wondered why anyone would need such a piece of technology. One of them explained to me that it was a cell phone, but I decided to call it {i}black slate {/i}regardless.
-  Raising my paw to catch the bear’s attention, I luckily managed to be noticed by him. He was a big, strong, tall polar bear. I was already fantasizing about dating him and was prepared to discover what this polar bear was doing in my town.
-  Almost falling face down next to him, the polar bear tightly embraced my left arm, standing me on my feet.
-  Hi, oh, sorry, I just wanted to talk to you-...
-  Mavoh… Semberelel.
-  Bi laramye ayotidi {i}Etye-Siril {/i}?
-  A huge gap formed between us. He spoke in a language so alien to my ears that I couldn’t stop thinking I somehow messed up everything.  I landed three more steps in the wrong direction, wanting to date him even though I didn’t even know his name.
-  {i}Shit{/i}, How am I supposed to talk to him if we don’t speak the same language?
-  Ah, sorry.
-  Snapping back to reality, a familiar set of words somehow made me think it was simply a misunderstanding, a mismatching of what language to use when traveling abroad.
-  Ah, I didn’t want you to fall, so are you alright?
-  Yes!
-  I mean, *cough* I’m fine. Thank you for helping me out.
-  Heh, no problem, kid.
-  Hey! I’m 20 years old, sir.
-  Ah, my apologies. It\'s time for me to stop using size to determine someone’s age.
-  Also, a second apology for not introducing myself.
-  Somehow, I felt a tone of familiarity within his voice, like the taste of thick and sweet honey. If it weren’t for the fact that he was a polar bear, the coincidence of his voice reminding me of honey would have been weird, but I guess all bears must have a strong presence to intimidate people and bring them comfort.
-  If I had already known him previously, I didn’t remember, or this memory has been erased from my ever-growing library of memories.  When we both met each other\'s gaze when I stood up and looked at him, all I could think was how his eyes were a pond revealing his ever-elusive soul.
-  Then it hit me… we were still at the train station, looking at each other. Rather awkwardly, I tried saying something, but I had become a prisoner to silence.
-  Eh, my name’s Erin. Leif Erinson, but I prefer people call me Erin *chuckles*...
-  Ah, interesting. My name is Miqqailli, but most of my colleagues call me Miq. I’m an anthropology professor at the National University of Berols.
-  Judging by your confused expression when I spoke the common tongue, I guess it\'s not surprising you are unfamiliar since even to this day, you guys don’t know what a cellphone is.
-  With a lashing-out tone, I got a bitter taste of all the uncensored rudeness he exhaled while dressed so eloquently, as opposed to a simpleton like me.
-  Yeah, yeah… This town is basically stuck in time. We still use old technology. It happens to be more reliable, in my honest opinion.
-  I see.
-  Well, lead the way. I think it\'s a fair trade if we keep each other’s company so I don’t get lost.
-  Of course, Professor Miq.
-  There is no need to apologize. Right now, I’m simply a tourist, and you are my guide. I won’t forget to charge you for your generous presentative services, little one.
-  Ohh, right!
-  So let’s first leave this crowded place. I can sense all the miasma in the air, infecting both of us with so much gossip and chatter.
-  I don’t know why such a weird set of words came out of my mouth. I guess I wanted to impress the bear, whom I wanted so much to have more than a chat with.
-  I must confess, he was hot and delectable to the homoerotic desires that so moved me. This city lacked an appropriate place to enjoy all the carnal desires of life.
-  I conditioned myself to simply jerk off to that snow leopard’s booty, but my mind quickly melted, and his lower brain turned on.
-  Not only did I want to satisfy my biological needs, I wanted to experience love, genuine love. With this polar bear, I think I got the best fish in the entire ocean.
-  To be completely honest, Nemmi was still a great candidate if I ever wanted to date someone and draw some kind of meaning out of it.
-  But regardless of what he said by my door, it still hurts me that he didn’t trust me with that information. If I had gotten more insight into his life at that time, I could’ve helped him, and we would be starting out the right way.
-  Thinking of Nemmi again made me realize how Nemmi made his presence omnipresent in my mind. The somber twink bear lied to me for years. For god’s sake, can’t I just forget him at least for the rest of today?
-  Hey! Erin, let’s go. We’re wasting our time here, so let’s be off quickly.
-  Sorry, I got distracted by my thoughts.
-  Less thinking, more walking, my youngling; ahh, you have to show me around this town; it\'s almost like I’m visiting a century in the past.
-  Yes, let’s be off.
-  Quickly leading the large-built bear to the outside of the train station, exposing a bit of the known lore of the town I’ve been living in for the past 21 years.
-  We got to the central park, which was very empty that day. Despite the large number of tourists, it seemed they were much more interested in other affairs. We both sat by a large tree.
-  At least Miq and I could have a proper date…
-  So, just to be sure… I couldn’t stop thinking about it…
-  Are you gay?
-  Oh, you mean liking men? Yes, I am. I am {i}gaayy~{/i}
-  Ah, very well, so am I.
-  Nervously, I started to tense up a little bit. It was the first time I ever said that word and conformed to my sexual orientation in front of others.
-  It was liberating but also a bit unnerving. I didn’t know what that meant beyond, {i}oh we both like men, so let’s go and fuck each other, am I right???{/i}
-  But no, I had to settle my thoughts. Did I love him? Or was I lying to myself over the fact that he may be the only other gay person in this damned town in the middle of nowhere.
-  Then he cut through my thoughts as if tearing fabric apart.
-  Then, we should let loose a little bit since we both share the same liking.
-  Do you mind if I take my shirt off?
-  No, I don’t think people will mind it. I will also follow suit.
-  Great!
-  He quickly unbuttoned his shirt and loosened his tie. I did the same, but was immediately surrounded by a refreshing wind that brushed against my filthy, sweaty fur from all the work I did earlier lifting.
-  Can I hug you?
-  Eh, of course, let’s hug!
-  I mean, it\'s not like I’ve been craving this for a long time-
-  His tight embrace filled me with all I wanted at the moment… touch, warmth, and {i}love{/i}. But to my surprise, I was also feeling… Conflicted with the whole situation. I then pulled away from his warm, comfortable belly.
-  I’m in a sort of weird situation at the moment, and you came out of nowhere, and we’re already hugging and everything.  Maybe we should go a wee bit slower?
-  Ah, don’t let yourself get fooled by these weird feelings, sweetie, let’s just enjoy the moment while it lasts.
-  You don’t need to worry. Just live in it.
-  Right… Maybe I’m overthinking. It\'s just that you’ve been so upfront about it that-
-  Shhh, it’s okay!  Back in my city, we have a much better appreciation of what means to be gay.
-  Gay bars, nude clubs, gay saunas and much, much more. I go to at least one of those weekly.
-  Gay bars? What are those?
-  My poor child, a gay bar is a magical place. We, lovers of the masculine build, can hang out and talk about all kinds of things, including sex.
-  It’s a place of liberation, one of the cornerstones of my own journey of self-discovery. When I was much younger, I went in one and simply snapped. Of course, I knew what I was doing and always went for safe sex.
-  I didn’t know those places existed. It must be a one-of-a-kind experience for you to be so open about your sexuality.
-  my very homophobic town, possibly full of closeted queers.
-  Hey, it\'s different for everyone. I can’t know or relate to your situation, but what I can do is be here to provide what you may need most.
-  The moment those words came out of his mouth, I again felt comforted by his embrace, and my heart started to quieten its pace, returning to its regular beating.
-  I noticed I had been clinging to his exposed chest ever more, embracing him and playing with his nipples. Then I saw the bulge rising in his pants. Mine were getting ever so tight as well.
-  Hehehe, you’re an eager one! You wanna see what’s hiding underneath these pants?
-  Here? Out in the open?  We’re exposed!  Wouldn’t my house be a better place?
-  Miq stood up first and then lifted me once I took his hand, shoving me into his exposed belly yet again. I could feel the ever-increasing erection tearing his underwear and his tight jeans that proudly displayed his bulge.
-  Boasting a giant smile, Miq posed like I was some king and he but a mere jester.
-  Lead the way, my charming Erin.
-  I never knew I would find someone so cute in my travels. You’re truly a brilliant piece among many who could never keep up with me.
-  Oh? Do you mean hookups?
-  Exactly, all of those men were a pain in the arse. All of them wanted to exploit me and my flesh…
-  I couldn’t help but feel like a piece of meat to satisfy those men and myself.
-  But I hope we both can build something. Of course, I already like you as you are.
-  Hehehe, you’re making me embarrassed. I have never had someone say such odd things in one single day.
-  I hope I’m not going against your own pace for things. I’m a bit desperate on matters of love.
-  But isn’t everyone a bit desperate about most things?
-  Hmm, maybe, maybe not. It’s a matter of going against the natural order of things, being against society as a whole, and yelling in the face of all those who have oppressed us.
-  Spit on their face and tell them to fuck off! Because I won’t be dragged and trapped in their lies, just to be discarded in the road to become star-like.
-  Become a star?
-  It’s from a book I read a few months ago. It\'s really insightful, but now’s not time to talk about books.  There are more urgent matters to attend to.
-  The rest of the trip back to my house was silent. Again, the awkward silence seemed to haunt me with uncomfortable feelings that I was doing something wrong, with layers of guilt and ignorance.
-  Finally we both finally got to my house. Much to my surprise, I then remembered my brother would be spending the week at mom’s house. Another great excuse to lay down with my bear and not have to worry about my brother shenanigans.
-  Hastily laying his luggage in the living room, we both headed directly to my stuffy bedroom.
-  So this is your bedroom. It’s in quite a messy state, but I can bear this. I’ve been in filthier places myself.
-  Ah, sorry, I just never had the time to clean this mess. I never expected someone to join me for the night, so I threw my clothes everywhere.
-  I don’t mind that.
-  Don’t be shy, make yourself at home. This mess can’t get any worse, ha ha ha.
-  Can I be completely naked then?
-  Another request I never thought I’d hear. Given we’re both adults and maybe could get down to some fun being naked, why not?
-  Already unfastening my pants, I let them fall to the ground. I was a bit hesitant to be naked in front of someone else for the first time. I just embraced his pace and removed my briefs.
-  Before he could react any further, I let myself be truly loose for once. Since he was laying on {b}my{/b} {b}bed, {/b}I needed to show him I was the master in this house. Falling onto his hefty frame, I kissed him.  Every time I parted his lips with mine, I wanted more, and more, and more.
-  I didn’t even take note that he was also naked from the beginning. Apparently once I started stripping down, he seized the opportunity to free himself from the confines of his pants. I started playing with nipples again, and the more I kissed him, the more our bodies seemed to melt into a single being.
-  The more we kissed, the more excited I got. I penetrated his mouth with my tongue, and he, mine.  I could taste his saliva all over my lips. It moistened my teeth, my tongue, my lips, and even some of my chin.
-  Finally, my hand made its way to his back, and we slowly began to embrace. I felt his backside and, eventually, his butt.  He quickly followed suit before deciding to lovingly bite my neck.  It was just the right amount of pressure to force me to moan.
-  My hands seemed to have a mind of their own, driven by wild instinct to touch, caress and explore all the parts of the polar bear’s nakedness.   He started thrusting into me, smearing his throbbing cock into mine.  We continued for a short time until I felt the urge to move forward.  I started to lick from his neck down his chest, playing a bit more with his nipples.
-  He moaned the entire time, perhaps due to pain from pinching his nipples, or maybe from pleasure.  His sensitive nips of his were amazingly fun to play with.  Before I knew it, I was back to kissing him and our saliva met yet again under one another’s lingual embrace.
-  We broke the sloppy kiss and gazed into each other’s eyes.
-  I like you, and I like where this is going~
-  I think you’re ready for this then…
-  I’ll be back in a second.
-  Breaking their cuddling frot session, he went back to the living room, naked as nature made us all, and ruffled in the luggage he brought.
-  There, he took out a bottle and a few packages of what looked like stickers with a round protrusion. He ripped one of those packages to reveal a condom, a rather thin condom, and a bottle, I assumed to contain lubricant.
-  Here, take this, and let’s get down to business.
-  But I don’t know how to put one of these on.
-  He made a hand gesture for me to position my erect cock, and proceeded to dress my meat with the thinnest protection I could imagine. He took a bit of lube from the bottle and splashed it on the constrictive case that my cock was currently in.
-  After the impromptu sex ed lesson, he turned around, exposing his pulsating butthole. It looked so hungry, I wanted to fill it. I needed to! And so, I awkwardly positioned myself on top of him, trying my best to align my cock with his hole.
-  It felt… different than I expected once I slid into his ass.  The warm walls of his insides were comfortably hugging my dick, and so I started to thrust into him.  It was unlike simply jacking off; I lost track of my pace three times. Still, each thrust carried pleasure all over my body in a way I couldn’t put into words.  In fact, sentences and words became moans.
-  The language of sex… everyone knew what that meant. Thrust after thrust, I felt my rock-solid dick go in and out. I tried to be attentive to his moans as well.  It seemed he really loved receiving such a hard rod.
-  Though I’m at least 30 centimeters smaller than him in stature, I packed a huge meat.   Lost in the lust of the moment, though, those thoughts melted in meaning, and all that mattered at the moment was to keep banging him. I quickened my pace, and soon I felt the ultimate pleasure once I filled the condom with ropes of cum.
-  I didn’t want to pull out of him just yet, but I felt entirely drained of energy. It made me realize sex demands great physical strength and preparation. Stacking only a few boxes in the storage room tires me. Having sex for the first time was amazing, and though exhausted, it was a reward a million times better than money.
-  I slowly removed my still erect cock from his ass.  In the process, my condom fell into the darkness of my room.  It was quickly shoved aside by either Miq or me. I didn’t know who did it, and I didn’t care.
-  After the most incredible time of my life, I felt wasted. My cock slowly returned to its soft state, leaving me eager to try it once more. But I was tired and needed a good sleep after fucking him.
-  When I looked at him, I realized he was already snoring. I wondered if he even remained awake during the whole ordeal. While I was ready for another round, I didn’t think he would want to be penetrated during his hopefully sweet dreams.
-  With the bear occupying a large section of the bed, there was only a mere 30 centimeters’ width of bed left for me, and I worried I would fall from the bed.  Maybe he would hold me tight during our sleep like when we first cuddled together.
-  I tried to snuggle close to him.  He suddenly stopped snoring and, making a rough sound, rolled to the other side of the bed. Finally, he gave me a proper space to sleep.
-  {i}Woah dude, I didn’t know sex was this amazing!{/i} But it may be odd to talk about sex that way.  It may be best not to talk to him right now since he’s all sleepy, right?
-  Maybe, tomorrow, we can talk more about things… about us."
+  "..."
+  "After three hours of hard work, lifting and rearranging some boxes for the local grocery store owned by Sorim, I felt tiredness surpassing every other will. Maybe I shouldn’t have masturbated so vigorously earlier."
+  "Without a single warning, in the distance, I heard the train’s chimneys announcing its arrival. I remembered it had been three long years since the last time the outside world visited us."
+  "Eagerly, I packed my things together and left a note for Mr. Sorim. I expected him to lash out at me for leaving the storage room so soon, but I couldn’t hide the excitement that washed over me."
+  "Finally, news from the outside world. Finally, new people to see and converse with.  Finally, something new happens after three years in this place stuck in time."
+  "Running to the train station, I stepped in all the puddles I had managed to avoid on the way to work. My shoes got soaked in muddy water, but the rain had stopped long ago, so I considered it fine."
+  "A crowd of 13 locals or so blocked the entrance of those leaving the train; nearly 50 people from abroad had made their way here."
+  "I spotted some cousins and uncles among the crowd, but I managed to avoid them all altogether because I hated family drama.  Since my parents were already a wreck, I imagined my extended family was just as bad, if not worse.  I only wanted news about the outside world and possible means to leave this wretched town."
+  "I’ve never seen so many different species in three years. There were those with giant ears, strange noses, and fur patterns so different from mine that I wondered if I had been transported to another world."
+  "But in the crowd of chaos, someone rather tall, with a white fur complexion, a polar bear, stood somewhat confused and amazed at the simple visual of our town. Meanwhile, I felt a sting of compassion for him… Nah, I’ll admit, he was hot, and I wanted, no, needed to approach him first."
+  "But before I did, I looked around to see if Nemmi was there by any chance.  Much to my disappointment, or rather relief, Nemmi was nowhere to be seen.  Even if I saw him, I think I would be hiding."
+  "I didn’t want to lie to him or keep the false pretense that my work was more important. Now that I’m here, it seems like I’m doing a great deal of back stabbing to Nemmi. I felt a bit sorry for abandoning Nemmi, my childhood friend."
+  "Regardless, I have no ties to Nemmi now.  Our lives are practically separated, and since he never even bothered to show up on my birthday, I figured that was the fracture point of our friendship."
+  "But then he came back today… And I shoved him aside…"
+  "No."
+  "I can’t be seen doubting my own decisions, even if it hurts both of us… or if it only hurts Nemmi."
+  "Snapping back to reality, I find myself struggling to free myself from the tensed-up crowd full of greetings, trivial conversations, and vague descriptions of news of the outside world."
+  "Each one had a weird slate device that lit up whenever they tapped on it. I wondered why anyone would need such a piece of technology. One of them explained to me that it was a cell phone, but I decided to call it black slate regardless."
+  "Raising my paw to catch the bear’s attention, I luckily managed to be noticed by him. He was a big, strong, tall polar bear. I was already fantasizing about dating him and was prepared to discover what this polar bear was doing in my town."
+  "Almost falling face down next to him, the polar bear tightly embraced my left arm, standing me on my feet."
+  e  "Hi, oh, sorry, I just wanted to talk to you-..."
+  ???: "Mavoh… Semberelel."
+  ???: "Bi laramye ayotidi Etye-Siril ?"
+  "A huge gap formed between us. He spoke in a language so alien to my ears that I couldn’t stop thinking I somehow messed up everything.  I landed three more steps in the wrong direction, wanting to date him even though I didn’t even know his name."
+  "Shit, How am I supposed to talk to him if we don’t speak the same language?"
+  ???: "Ah, sorry."
+  "Snapping back to reality, a familiar set of words somehow made me think it was simply a misunderstanding, a mismatching of what language to use when traveling abroad."
+  ???: "Ah, I didn’t want you to fall, so are you alright?"
+  e  "Yes!"
+  e  "I mean, *cough* I’m fine. Thank you for helping me out."
+  ???: "Heh, no problem, kid."
+  e  "Hey! I’m 20 years old, sir."
+  ???: "Ah, my apologies. It\'s time for me to stop using size to determine someone’s age."
+  ???: "Also, a second apology for not introducing myself."
+  "Somehow, I felt a tone of familiarity within his voice, like the taste of thick and sweet honey. If it weren’t for the fact that he was a polar bear, the coincidence of his voice reminding me of honey would have been weird, but I guess all bears must have a strong presence to intimidate people and bring them comfort."
+  "If I had already known him previously, I didn’t remember, or this memory has been erased from my ever-growing library of memories.  When we both met each other\'s gaze when I stood up and looked at him, all I could think was how his eyes were a pond revealing his ever-elusive soul."
+  "Then it hit me… we were still at the train station, looking at each other. Rather awkwardly, I tried saying something, but I had become a prisoner to silence."
+  e  "Eh, my name’s Erin. Leif Erinson, but I prefer people call me Erin *chuckles*..."
+  m "Ah, interesting. My name is Miqqailli, but most of my colleagues call me Miq. I’m an anthropology professor at the National University of Berols."
+  m "Judging by your confused expression when I spoke the common tongue, I guess it\'s not surprising you are unfamiliar since even to this day, you guys don’t know what a cellphone is."
+  "With a lashing-out tone, I got a bitter taste of all the uncensored rudeness he exhaled while dressed so eloquently, as opposed to a simpleton like me."
+  e  "Yeah, yeah… This town is basically stuck in time. We still use old technology. It happens to be more reliable, in my honest opinion."
+  m "I see."
+  m "Well, lead the way. I think it\'s a fair trade if we keep each other’s company so I don’t get lost."
+  e  "Of course, Professor Miq."
+  m "There is no need to apologize. Right now, I’m simply a tourist, and you are my guide. I won’t forget to charge you for your generous presentative services, little one."
+  e  "Ohh, right!"
+  e  "So let’s first leave this crowded place. I can sense all the miasma in the air, infecting both of us with so much gossip and chatter."
+  "I don’t know why such a weird set of words came out of my mouth. I guess I wanted to impress the bear, whom I wanted so much to have more than a chat with."
+  "I must confess, he was hot and delectable to the homoerotic desires that so moved me. This city lacked an appropriate place to enjoy all the carnal desires of life."
+  "I conditioned myself to simply jerk off to that snow leopard’s booty, but my mind quickly melted, and his lower brain turned on."
+  "Not only did I want to satisfy my biological needs, I wanted to experience love, genuine love. With this polar bear, I think I got the best fish in the entire ocean."
+  "To be completely honest, Nemmi was still a great candidate if I ever wanted to date someone and draw some kind of meaning out of it."
+  "But regardless of what he said by my door, it still hurts me that he didn’t trust me with that information. If I had gotten more insight into his life at that time, I could’ve helped him, and we would be starting out the right way."
+  "Thinking of Nemmi again made me realize how Nemmi made his presence omnipresent in my mind. The somber twink bear lied to me for years. For god’s sake, can’t I just forget him at least for the rest of today?"
+  m "Hey! Erin, let’s go. We’re wasting our time here, so let’s be off quickly."
+  e  "Sorry, I got distracted by my thoughts."
+  m "Less thinking, more walking, my youngling; ahh, you have to show me around this town; it\'s almost like I’m visiting a century in the past."
+  e  "Yes, let’s be off."
+  # "Quickly leading the large-built bear to the outside of the train station, exposing a bit of the known lore of the town I’ve been living in for the past 21 years."
+  "We got to the central park, which was very empty that day. Despite the large number of tourists, it seemed they were much more interested in other affairs. We both sat by a large tree."
+  "At least Miq and I could have a proper date..."
+  m "So, just to be sure… I couldn’t stop thinking about it..."
+  m "Are you gay?"
+  e  "Oh, you mean liking men? Yes, I am. I am gaayy~"
+  m "Ah, very well, so am I."
+  "Nervously, I started to tense up a little bit. It was the first time I ever said that word and conformed to my sexual orientation in front of others."
+  "It was liberating but also a bit unnerving. I didn’t know what that meant beyond, oh we both like men, so let’s go and fuck each other, am I right???"
+  "But no, I had to settle my thoughts. Did I love him? Or was I lying to myself over the fact that he may be the only other gay person in this damned town in the middle of nowhere."
+  "Then he cut through my thoughts as if tearing fabric apart."
+  m "Then, we should let loose a little bit since we both share the same liking."
+  m "Do you mind if I take my shirt off?"
+  e  "No, I don’t think people will mind it. I will also follow suit."
+  m "Great!"
+  "He quickly unbuttoned his shirt and loosened his tie. I did the same, but was immediately surrounded by a refreshing wind that brushed against my filthy, sweaty fur from all the work I did earlier lifting."
+  m "Can I hug you?"
+  e  "Eh, of course, let’s hug!"
+  e  "I mean, it\\'s not like I’ve been craving this for a long time-"
+  "His tight embrace filled me with all I wanted at the moment… touch, warmth, and love. But to my surprise, I was also feeling… Conflicted with the whole situation. I then pulled away from his warm, comfortable belly."
+  e  "I’m in a sort of weird situation at the moment, and you came out of nowhere, and we’re already hugging and everything.  Maybe we should go a wee bit slower?"
+  m "Ah, don’t let yourself get fooled by these weird feelings, sweetie, let’s just enjoy the moment while it lasts."
+  m "You don’t need to worry. Just live in it."
+  e  "Right… Maybe I’m overthinking. It\\'s just that you’ve been so upfront about it that-"
+  m "Shhh, it’s okay!  Back in my city, we have a much better appreciation of what means to be gay."
+  m "Gay bars, nude clubs, gay saunas and much, much more. I go to at least one of those weekly."
+  e  "Gay bars? What are those?"
+  m "My poor child, a gay bar is a magical place. We, lovers of the masculine build, can hang out and talk about all kinds of things, including sex."
+  m "It’s a place of liberation, one of the cornerstones of my own journey of self-discovery. When I was much younger, I went in one and simply snapped. Of course, I knew what I was doing and always went for safe sex."
+  e  "I didn’t know those places existed. It must be a one-of-a-kind experience for you to be so open about your sexuality."
+  "He noticed I wasn’t looking in his direction anymore. Instead, I was taking in a panorama view of what was in front of me: my very homophobic town, possibly full of closeted queers."
+  m "Hey, it\\'s different for everyone. I can’t know or relate to your situation, but what I can do is be here to provide what you may need most.
+  The moment those words came out of his mouth, I again felt comforted by his embrace, and my heart started to quieten its pace, returning to its regular beating."
+  "I noticed I had been clinging to his exposed chest ever more, embracing him and playing with his nipples. Then I saw the bulge rising in his pants. Mine were getting ever so tight as well."
+  m "Hehehe, you’re an eager one! You wanna see what’s hiding underneath these pants?"
+  e  "Here? Out in the open?  We’re exposed!  Wouldn’t my house be a better place?"
+  "Miq stood up first and then lifted me once I took his hand, shoving me into his exposed belly yet again. I could feel the ever-increasing erection tearing his underwear and his tight jeans that proudly displayed his bulge."
+  "Boasting a giant smile, Miq posed like I was some king and he but a mere jester."
+  m "Lead the way, my charming Erin."
+  m "I never knew I would find someone so cute in my travels. You’re truly a brilliant piece among many who could never keep up with me."
+  e  "Oh? Do you mean hookups?"
+  m "Exactly, all of those men were a pain in the arse. All of them wanted to exploit me and my flesh..."
+  m "I couldn’t help but feel like a piece of meat to satisfy those men and myself."
+  m "But I hope we both can build something. Of course, I already like you as you are."
+  e  "Hehehe, you’re making me embarrassed. I have never had someone say such odd things in one single day."
+  m "I hope I’m not going against your own pace for things. I’m a bit desperate on matters of love."
+  e  "But isn’t everyone a bit desperate about most things?"
+  m "Hmm, maybe, maybe not. It’s a matter of going against the natural order of things, being against society as a whole, and yelling in the face of all those who have oppressed us."
+  m "Spit on their face and tell them to fuck off! Because I won’t be dragged and trapped in their lies, just to be discarded in the road to become star-like."
+  e  "Become a star?"
+  m "It’s from a book I read a few months ago. It\\'s really insightful, but now’s not time to talk about books.  There are more urgent matters to attend to."
+  "The rest of the trip back to my house was silent. Again, the awkward silence seemed to haunt me with uncomfortable feelings that I was doing something wrong, with layers of guilt and ignorance."
+  "Finally we both finally got to my house. Much to my surprise, I then remembered my brother would be spending the week at mom’s house. Another great excuse to lay down with my bear and not have to worry about my brother shenanigans."
+  "Hastily laying his luggage in the living room, we both headed directly to my stuffy bedroom."
+  m "So this is your bedroom. It’s in quite a messy state, but I can bear this. I’ve been in filthier places myself."
+  e  "Ah, sorry, I just never had the time to clean this mess. I never expected someone to join me for the night, so I threw my clothes everywhere."
+  m "I don’t mind that."
+  e  "Don’t be shy, make yourself at home. This mess can’t get any worse, ha ha ha..."
+  m "Can I be completely naked then?"
+  "Another request I never thought I’d hear. Given we’re both adults and maybe could get down to some fun being naked, why not?"
+  "Already unfastening my pants, I let them fall to the ground. I was a bit hesitant to be naked in front of someone else for the first time. I just embraced his pace and removed my briefs."
+  "Before he could react any further, I let myself be truly loose for once. Since he was laying on my bed, I needed to show him I was the master in this house. Falling onto his hefty frame, I kissed him.  Every time I parted his lips with mine, I wanted more, and more, and more."
+  "I didn’t even take note that he was also naked from the beginning. Apparently once I started stripping down, he seized the opportunity to free himself from the confines of his pants. I started playing with nipples again, and the more I kissed him, the more our bodies seemed to melt into a single being."
+  "The more we kissed, the more excited I got. I penetrated his mouth with my tongue, and he, mine.  I could taste his saliva all over my lips. It moistened my teeth, my tongue, my lips, and even some of my chin."
+  "Finally, my hand made its way to his back, and we slowly began to embrace. I felt his backside and, eventually, his butt.  He quickly followed suit before deciding to lovingly bite my neck.  It was just the right amount of pressure to force me to moan."
+  "My hands seemed to have a mind of their own, driven by wild instinct to touch, caress and explore all the parts of the polar bear’s nakedness.   He started thrusting into me, smearing his throbbing cock into mine.  We continued for a short time until I felt the urge to move forward.  I started to lick from his neck down his chest, playing a bit more with his nipples."
+  "He moaned the entire time, perhaps due to pain from pinching his nipples, or maybe from pleasure.  His sensitive nips of his were amazingly fun to play with.  Before I knew it, I was back to kissing him and our saliva met yet again under one another’s lingual embrace."
+  "We broke the sloppy kiss and gazed into each other’s eyes."
+  e  "I like you, and I like where this is going~"
+  m "I think you’re ready for this then..."
+  m "I’ll be back in a second."
+  "Breaking their cuddling frot session, he went back to the living room, naked as nature made us all, and ruffled in the luggage he brought."
+  "There, he took out a bottle and a few packages of what looked like stickers with a round protrusion. He ripped one of those packages to reveal a condom, a rather thin condom, and a bottle, I assumed to contain lubricant."
+  m "Here, take this, and let’s get down to business."
+  e  "But I don’t know how to put one of these on."
+  "He made a hand gesture for me to position my erect cock, and proceeded to dress my meat with the thinnest protection I could imagine. He took a bit of lube from the bottle and splashed it on the constrictive case that my cock was currently in."
+  "After the impromptu sex ed lesson, he turned around, exposing his pulsating butthole. It looked so hungry, I wanted to fill it. I needed to! And so, I awkwardly positioned myself on top of him, trying my best to align my cock with his hole."
+  "It felt… different than I expected once I slid into his ass.  The warm walls of his insides were comfortably hugging my dick, and so I started to thrust into him.  It was unlike simply jacking off; I lost track of my pace three times. Still, each thrust carried pleasure all over my body in a way I couldn’t put into words.  In fact, sentences and words became moans."
+  "The language of sex… everyone knew what that meant. Thrust after thrust, I felt my rock-solid dick go in and out. I tried to be attentive to his moans as well.  It seemed he really loved receiving such a hard rod."
+  "Though I’m at least 30 centimeters smaller than him in stature, I packed a huge meat.   Lost in the lust of the moment, though, those thoughts melted in meaning, and all that mattered at the moment was to keep banging him. I quickened my pace, and soon I felt the ultimate pleasure once I filled the condom with ropes of cum."
+  "I didn’t want to pull out of him just yet, but I felt entirely drained of energy. It made me realize sex demands great physical strength and preparation. Stacking only a few boxes in the storage room tires me. Having sex for the first time was amazing, and though exhausted, it was a reward a million times better than money."
+  "I slowly removed my still erect cock from his ass.  In the process, my condom fell into the darkness of my room.  It was quickly shoved aside by either Miq or me. I didn’t know who did it, and I didn’t care."
+  "After the most incredible time of my life, I felt wasted. My cock slowly returned to its soft state, leaving me eager to try it once more. But I was tired and needed a good sleep after fucking him."
+  "When I looked at him, I realized he was already snoring. I wondered if he even remained awake during the whole ordeal. While I was ready for another round, I didn’t think he would want to be penetrated during his hopefully sweet dreams."
+  "With the bear occupying a large section of the bed, there was only a mere 30 centimeters’ width of bed left for me, and I worried I would fall from the bed.  Maybe he would hold me tight during our sleep like when we first cuddled together."
+  "I tried to snuggle close to him.  He suddenly stopped snoring and, making a rough sound, rolled to the other side of the bed. Finally, he gave me a proper space to sleep."
+  "And so I fell asleep, still wanting to talk to him.  I hoped we could finish our night on a more communicative note, something like: Woah dude, I didn’t know sex was this amazing! But it may be odd to talk about sex that way.  It may be best not to talk to him right now since he’s all sleepy, right?"
+  "Maybe, tomorrow, we can talk more about things… about us."
 
-
-
-    jump day_2
+jump day_2

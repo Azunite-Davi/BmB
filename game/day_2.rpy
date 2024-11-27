@@ -43,7 +43,7 @@
     "As soon as I thought of what his travel must have been like, a chilly sensation brushed against my fur.  Once the morning light rays slapped my eyes, it was almost identical to what I felt yesterday, in the same order of events, but this time his bed was…"
     "Empty. Devoid of the white fluffy mountain that inhabited my bed yesterday night, only a few strands of his fur matted my sheets. I wasn’t expecting him to be gone so early. Maybe he just went for a morning jog? Wasn’t he on vacation?"
     "I directed myself to the bedroom door, which was left ajar. I heard sounds coming from the kitchen, and the smell of fried eggs made its way to my nostrils. I was not really used to the idea of being woken up by someone else."
-    "I found him wearing an apron, still half naked, preparing breakfast for both of us."  "It was cute in a way, but I got slightly worried that he might’ve needed to go to the nearest store to buy some more…"
+    "I found him wearing an apron, still half naked, preparing breakfast for both of us. " "It was cute in a way, but I got slightly worried that he might’ve needed to go to the nearest store to buy some more…"
     "Shit!"
     "I didn’t finish stocking everything and moving all the boxes. Mr. Sorim is going to skin me alive!"
     "Quickly trying to fetch the nearest and cleanest towel available in my bedroom, I quickly took a shower. I suddenly remembered I didn’t do laundry the other day, and so all my clothes were dirty."
@@ -56,7 +56,7 @@
     "That last word echoes through me like he said something completely, utterly unhinged, and yet I can\'t help but think it\'s so considerate of him.  It was perhaps a tad too early for a cute name exchange, though."
     e "Very well, I\'m coming out soon."
     "I was prepared to hurry up so that I would not miss breakfast with my big polar bear. After drying my fur, I quickly grabbed the cleanest set of clothes I had available."
-   " I sat down at the kitchen table waiting for him, but when he turned around, I felt a tinge of disappointment. He placed two fried eggs in front of me, and a simple orange juice."
+    "I sat down at the kitchen table waiting for him, but when he turned around, I felt a tinge of disappointment. He placed two fried eggs in front of me, and a simple orange juice."
     "I tried to question his melancholic facade, but I figured it was because I simply lacked the skill to make my house more organized."
     "I should consider organizing my stuff later today, but checking on work is a priority."
     m "Today I didn’t receive a proper good morning from you! hehehe."
@@ -68,10 +68,10 @@
     "I wanted to rip my ears apart every damn time he said those words, and yet, it felt genuine, like I was really in for a win."
     "Finally, I\'ve found someone of my liking. And he\'s even a professor at an amazing university."
     "As the last spoonful of breakfast enters my mouth, I am reminded of my job, tormenting my mind again with a myriad of intrusive thoughts. I consider possibly quitting it for the sake of my sanity."
-    "Mr. Sorim abused his staff as much as he liked, and I am his primary target." "Thankfully, he\'s too old to go to the store’s lower floor very often."
-   " Coming back to an empty plate, the polar bear seemed happy to touch my fur, but once I noticed his enjoyment, he quickly switched to a more serious demeanor."
+    "Mr. Sorim abused his staff as much as he liked, and I am his primary target. ""Thankfully, he\'s too old to go to the store’s lower floor very often."
+    "Coming back to an empty plate, the polar bear seemed happy to touch my fur, but once I noticed his enjoyment, he quickly switched to a more serious demeanor."
     "I was once again prompted to go about my day, but this time, it was different. He was with someone else. Could we already be considered boyfriends?"
-    "No, no, this is getting out of control." "We\'re just very friendly with each other."
+    "No, no, this is getting out of control. ""We\'re just very friendly with each other."
     "I wouldn\'t mind skipping my job once again.  After all, my big polar bear cannot be left unattended to wander astray!"
     m "Hey, were you expecting a letter?"
     m "I pretty much believe those are things from the past, not that I\'m very aware of how technologically adept you guys are-"
@@ -79,7 +79,7 @@
     e "They even have the audacity to put on falsified stamps."
     m "If you say so."
     "Taking the letter off the ground…"
-    # [Never mind…]
+    # [Never mind…] 
     "Crushing it into a ball of paper, I noticed there was something oddly different this time."
     "Other than the clear lack of a falsified stamp, or any stamps for that matter, the envelope seemed to be flimsy, and its contents were scattered everywhere."
     "I paid no attention, though, as Miq opened the door to reveal this peculiar place. It was always roughly the same climate and temperature."
@@ -91,7 +91,7 @@
     m "So, today, we don\'t have much planned unless you know of any museum or library with the city\'s history."
     e "We do."
     e "We were by the municipal museum’s park yesterday… When you took your shirt off…"
-   " Ignoring the last bit of uncomfortableness in my speech pattern, I thought of the possible horrible outcomes of being seen with a half-naked guy, and whether it would lead others to think worse of me…"
+    "Ignoring the last bit of uncomfortableness in my speech pattern, I thought of the possible horrible outcomes of being seen with a half-naked guy, and whether it would lead others to think worse of me…"
     m "Ah, that\'ll do."
     m "Let\'s be off then and not delay any more."
     e "On it!"
@@ -139,13 +139,13 @@
     e "Wait, wait, what about this book right here?"
     "Looking at the book, the page I’ve been staring at for the past hour had vanished, along with all of the intricate drawings, and the message behind it."
     "It was gone, replaced by a poem:"
-   # Overtaken by guilt,
-   # Pierced by their hollow labor.
-   # Mirror of the soul,
-  #  Yearns for the pure gesture.
-   # Shrouded in darkness,
-  #  Washed, bleached of their colors.
-   "Trying to seek meaning through words that. seemed more like a spell, I became thoroughly disappointed."
+    # Overtaken by guilt,
+    # Pierced by their hollow labor.
+    # Mirror of the soul,
+    #  Yearns for the pure gesture.
+    # Shrouded in darkness,
+    #  Washed, bleached of their colors.
+    "Trying to seek meaning through words that. seemed more like a spell, I became thoroughly disappointed."
     "Did I just imagine that? What the fuck is this?"
     "Being pulled out of my mind again by this puzzling book, I close it and toss it over the table in an act of primitive rage or perhaps dread. The scariest thing about the book was knowing it had a beautiful pattern that soon faded away in the blink of my eyes."
     m "Hey, hey, big boy."
@@ -159,10 +159,10 @@
     m "Come on, sweet, we should see if anyone\'s in danger."
     "Gripping on my paw, he pulled me towards the main aisle and through the entire library, swinging me like a ragdoll and taking notice of all of my movements."
     "The outside came like a blinding light, and puddles were everywhere. As a result of windy rain, there were more branches, leaves, and debris than usual."
-   " A few sirens followed by loud screens of desperation were heard all across the street."
+    "A few sirens followed by loud screens of desperation were heard all across the street."
     "W: Where\'s my boy!?"
     "W: He left home this morning but hasn\'t returned yet."
-   " A police officer approached her on the verge of hyperventilating, reaching for air as if she was containing her panic attack."
+    "A police officer approached her on the verge of hyperventilating, reaching for air as if she was containing her panic attack."
     "As the truth started to settle down on her, what once were desperate yells of a mother looking for her missing son turned into streams of tears by the unsettling truth that her son was gone."
     "I tried to make sense of the almost theatrical scene that just played out before me."
     "Someone should tell me what happened."
