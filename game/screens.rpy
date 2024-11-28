@@ -288,16 +288,13 @@ style quick_button_text:
 
 screen navigation():
 
-    hbox:
+    vbox:
         style_prefix "navigation"
 
-        xalign 0.8
-        yalign 1.0
-        xoffset -25
-        if main_menu:
-            spacing 0
-        else:
-            spacing -20
+        xpos gui.navigation_xpos
+        yalign 0.5
+
+        spacing gui.navigation_spacing
 
         if main_menu:
 

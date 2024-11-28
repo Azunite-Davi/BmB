@@ -45,7 +45,7 @@ layeredimage miq:
             "sprites/miq/e_thinking.webp"
 
     group m_expressions:
-        attribute Open:
+        attribute t:
             "sprites/miq/Open.webp"
         attribute Closed:
             "sprites/miq/Closed.webp"
@@ -76,6 +76,12 @@ layeredimage nemmi:
     group undie:
         attribute undie:
             "sprites/nemmi/WhiteBrief.webp"
+    group footwear:
+        attribute shoe default:
+            "sprites/nemmi/DarkSneakers.webp"
+        attribute sock default:
+            "sprites/nemmi/DarkSneakers.webp"
+
 
     group e_expressions:
         attribute eye_normal default:
@@ -100,7 +106,7 @@ layeredimage nemmi:
             "sprites/nemmi/8 muzzle/Sad.png"
         attribute happy:
             "sprites/nemmi/8 muzzle/Happy.png"
-        attribute talk:
+        attribute t:
             "sprites/nemmi/8 muzzle/Talk.png"
         attribute pout:
             "sprites/nemmi/8 muzzle/Pout.png"
@@ -114,7 +120,10 @@ image Crayon_village = "bg/Crayon Village Slope.png"
 image library = "bg/library.jpg" 
 image living_room = "bg/Living Room.png" 
 image moutain = "bg/Mountain Day.png" 
-"bg/NovemBEAR Splash Screen.png" 
 image landscape = "bg/Abstract landscape.png" 
 image bedroom = "bg/Bedroom.png"
 image dream = "bg/mountain_dream.png"
+image castle = "bg/castle.jpg"
+image castle inside = "bg/castle-interior.jpg"
+image trainstation = "bg/trainstation.jpg"
+image park = "game/images/bg/park.jpg"

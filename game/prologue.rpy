@@ -21,7 +21,4 @@ label prologue:
     "From that day on, I never saw Nemmi again. Even at school, he was always absent, skipping class or not even leaving his home. Some kids thought about visiting him."
     "But it was as if Nemmi was gone…"
     "And once again, I was afraid."
-    
-
-
     jump day_1
