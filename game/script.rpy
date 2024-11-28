@@ -47,9 +47,12 @@ layeredimage miq:
     group m_expressions:
         attribute t:
             "sprites/miq/Open.webp"
-        attribute Closed:
+        attribute Closed default:
             "sprites/miq/Closed.webp"
 
+    group shoe:
+        attribute boots default:
+            "sprites/miq/Boots.webp"
 
 layeredimage nemmi:
     zoom 0.35

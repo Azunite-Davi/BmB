@@ -124,64 +124,86 @@ label day_1:
   "Each one had a weird slate device that lit up whenever they tapped on it. I wondered why anyone would need such a piece of technology. One of them explained to me that it was a cell phone, but I decided to call it black slate regardless."
   "Raising my paw to catch the bear’s attention, I luckily managed to be noticed by him. He was a big, strong, tall polar bear. I was already fantasizing about dating him and was prepared to discover what this polar bear was doing in my town."
   "Almost falling face down next to him, the polar bear tightly embraced my left arm, standing me on my feet."
+  show miq BlackSlacks WhiteDress 
   e  "Hi, oh, sorry, I just wanted to talk to you-..."
+  show miq t BlackSlacks WhiteDress
   "???" "Mavoh… Semberelel."
   "???" "Bi laramye ayotidi Etye-Siril ?"
+  show miq -t BlackSlacks WhiteDress
   "A huge gap formed between us. He spoke in a language so alien to my ears that I couldn’t stop thinking I somehow messed up everything.  I landed three more steps in the wrong direction, wanting to date him even though I didn’t even know his name."
   "Shit, How am I supposed to talk to him if we don’t speak the same language?"
+  show miq t BlackSlacks WhiteDress
   "???" "Ah, sorry."
+  show miq -t BlackSlacks WhiteDress
   "Snapping back to reality, a familiar set of words somehow made me think it was simply a misunderstanding, a mismatching of what language to use when traveling abroad."
+  show miq t BlackSlacks WhiteDress
   "???" "Ah, I didn’t want you to fall, so are you alright?"
+  show miq -t BlackSlacks WhiteDress
   e  "Yes!"
   e  "I mean, *cough* I’m fine. Thank you for helping me out."
+  show miq t BlackSlacks WhiteDress
   "???" "Heh, no problem, kid."
+  show miq -t BlackSlacks WhiteDress
   e  "Hey! I’m 20 years old, sir."
+  show miq t BlackSlacks WhiteDress
   "???" "Ah, my apologies. It\'s time for me to stop using size to determine someone’s age."
   "???" "Also, a second apology for not introducing myself."
+  show miq -t BlackSlacks WhiteDress
   "Somehow, I felt a tone of familiarity within his voice, like the taste of thick and sweet honey. If it weren’t for the fact that he was a polar bear, the coincidence of his voice reminding me of honey would have been weird, but I guess all bears must have a strong presence to intimidate people and bring them comfort."
   "If I had already known him previously, I didn’t remember, or this memory has been erased from my ever-growing library of memories.  When we both met each other\'s gaze when I stood up and looked at him, all I could think was how his eyes were a pond revealing his ever-elusive soul."
   "Then it hit me… we were still at the train station, looking at each other. Rather awkwardly, I tried saying something, but I had become a prisoner to silence."
   e  "Eh, my name’s Erin. Leif Erinson, but I prefer people call me Erin *chuckles*..."
-  m "Ah, interesting. My name is Miqqailli, but most of my colleagues call me Miq. I’m an anthropology professor at the National University of Berols."
+  m t BlackSlacks WhiteDress "Ah, interesting. My name is Miqqailli, but most of my colleagues call me Miq. I’m an anthropology student at the National University of Berols."
   m "Judging by your confused expression when I spoke the common tongue, I guess it\'s not surprising you are unfamiliar since even to this day, you guys don’t know what a cellphone is."
+  show miq -t BlackSlacks WhiteDress
   "With a lashing-out tone, I got a bitter taste of all the uncensored rudeness he exhaled while dressed so eloquently, as opposed to a simpleton like me."
   e  "Yeah, yeah… This town is basically stuck in time. We still use old technology. It happens to be more reliable, in my honest opinion."
-  m "I see."
-  m "Well, lead the way. I think it\'s a fair trade if we keep each other’s company so I don’t get lost."
-  e  "Of course, Professor Miq."
-  m "There is no need to apologize. Right now, I’m simply a tourist, and you are my guide. I won’t forget to charge you for your generous presentative services, little one."
+  m t BlackSlacks WhiteDress "I see."
+  m t BlackSlacks WhiteDress "Well, lead the way. I think it\'s a fair trade if we keep each other’s company so I don’t get lost."
+  show miq -t BlackSlacks WhiteDress
+  e  "Of course, Miq."
+  m t BlackSlacks WhiteDress "There is no need to apologize. Right now, I’m simply a tourist, and you are my guide. I won’t forget to charge you for your generous presentative services, little one."
+  show miq -t BlackSlacks WhiteDress
   e  "Ohh, right!"
   e  "So let’s first leave this crowded place. I can sense all the miasma in the air, infecting both of us with so much gossip and chatter."
   "I don’t know why such a weird set of words came out of my mouth. I guess I wanted to impress the bear, whom I wanted so much to have more than a chat with."
   "I must confess, he was hot and delectable to the homoerotic desires that so moved me. This city lacked an appropriate place to enjoy all the carnal desires of life."
-  "I conditioned myself to simply jerk off to that snow leopard’s booty, but my mind quickly melted, and his lower brain turned on."
-  "Not only did I want to satisfy my biological needs, I wanted to experience love, genuine love. With this polar bear, I think I got the best fish in the entire ocean."
+  "and I conditioned myself to simply jerking off to that snow leopard’s booty earlier, but my mind quickly melted, and my lower brain turned on."
+  "Not only did I want to satisfy my biological needs, I wanted to experience love, genuine love. With this polar bear, I think{cps=2}...{/cps} I got the best fish in the entire ocean."
   "To be completely honest, Nemmi was still a great candidate if I ever wanted to date someone and draw some kind of meaning out of it."
   "But regardless of what he said by my door, it still hurts me that he didn’t trust me with that information. If I had gotten more insight into his life at that time, I could’ve helped him, and we would be starting out the right way."
   "Thinking of Nemmi again made me realize how Nemmi made his presence omnipresent in my mind. The somber twink bear lied to me for years. For god’s sake, can’t I just forget him at least for the rest of today?"
-  m "Hey! Erin, let’s go. We’re wasting our time here, so let’s be off quickly."
+  m t BlackSlacks WhiteDress "Hey! Erin, let’s go. We’re wasting our time here, so let’s be off quickly."
+  show miq -t BlackSlacks WhiteDress
   e  "Sorry, I got distracted by my thoughts."
-  m "Less thinking, more walking, my youngling; ahh, you have to show me around this town; it\'s almost like I’m visiting a century in the past."
+  m t BlackSlacks WhiteDress "Less thinking, more walking, my youngling; ahh, you have to show me around this town; it\'s almost like I’m visiting a century in the past."
+  show miq -t BlackSlacks WhiteDress
   e  "Yes, let’s be off."
-  # "Quickly leading the large-built bear to the outside of the train station, exposing a bit of the known lore of the town I’ve been living in for the past 21 years."
+  "Quickly leading the large-built bear to the outside of the train station, exposing a bit of the known lore of the town I’ve been living in for the past 2 years or so... Actually this might not be enough time to know all of this city, but whatever, I keep going on about the lore my mom told me."
+  show park 
   "We got to the central park, which was very empty that day. Despite the large number of tourists, it seemed they were much more interested in other affairs. We both sat by a large tree."
   "At least Miq and I could have a proper date..."
-  m "So, just to be sure… I couldn’t stop thinking about it..."
-  m "Are you gay?"
+  m  t BlackSlacks WhiteDress "So, just to be sure… I couldn’t stop thinking about it..."
+  m  t BlackSlacks WhiteDress "Are you gay?"
+  show miq -t BlackSlacks WhiteDress
   e  "Oh, you mean liking men? Yes, I am. I am gaayy~"
-  m "Ah, very well, so am I."
+  m t BlackSlacks WhiteDress  "Ah, very well, so am I."
+  show miq -t BlackSlacks WhiteDress
   "Nervously, I started to tense up a little bit. It was the first time I ever said that word and conformed to my sexual orientation in front of others."
   "It was liberating but also a bit unnerving. I didn’t know what that meant beyond, oh we both like men, so let’s go and fuck each other, am I right???"
   "But no, I had to settle my thoughts. Did I love him? Or was I lying to myself over the fact that he may be the only other gay person in this damned town in the middle of nowhere."
   "Then he cut through my thoughts as if tearing fabric apart."
-  m "Then, we should let loose a little bit since we both share the same liking."
-  m "Do you mind if I take my shirt off?"
+  m t BlackSlacks WhiteDress  "Then, we should let loose a little bit since we both share the same liking."
+  m t BlackSlacks WhiteDress "Do you mind if I take my shirt off?"
+  show miq -t BlackSlacks WhiteDress
   e  "No, I don’t think people will mind it. I will also follow suit."
-  m "Great!"
+  m t BlackSlacks WhiteDress "Great!"
+  show miq -t BlackSlacks WhiteDress
   "He quickly unbuttoned his shirt and loosened his tie. I did the same, but was immediately surrounded by a refreshing wind that brushed against my filthy, sweaty fur from all the work I did earlier lifting."
-  m "Can I hug you?"
-  e  "Eh, of course, let’s hug!"
-  e  "I mean, it\\'s not like I’ve been craving this for a long time-"
+  m t BlackSlacks  "Can I hug you?"
+  e  "Eh..."
+  e  "Uhh, of course? let’s hug!"
+  e  "I mean, it\'s not like I’ve been craving this for a long time-"
   "His tight embrace filled me with all I wanted at the moment… touch, warmth, and love. But to my surprise, I was also feeling… Conflicted with the whole situation. I then pulled away from his warm, comfortable belly."
   e  "I’m in a sort of weird situation at the moment, and you came out of nowhere, and we’re already hugging and everything.  Maybe we should go a wee bit slower?"
   m "Ah, don’t let yourself get fooled by these weird feelings, sweetie, let’s just enjoy the moment while it lasts."
