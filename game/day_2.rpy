@@ -1,5 +1,5 @@
 label day_2:
-
+    scene dream
     "It felt like a stream of endless colors tainting my vision.  My dream consisted of all kinds of unknown figures, beasts, and random memories, all mixed together like a soup that was about to start boiling."
     "Everything went quiet. A deafening silence was followed by an abyss that swallowed all my senses. Maybe everything was so quiet because I had been swallowed, gobbled up by some kind of monster."
     "My senses started to disintegrate as if I were being dissolved in some kind of gastric acid. I was uncertain of the nature of my current state of being."
@@ -12,7 +12,9 @@ label day_2:
     "Over and over again, this period marked my independence, from inside to outside, from warmth to cold, from one to two."
     "I tried not to delve much into the eeriness this strange place offered me, though it was such a unique experience. Castles atop giant mountains revealed the truth of my presence. I was a mere ant, so small, I could be ignored."
     "Yet I tried to climb the mountain. Maybe it stood far above the clouds, but eventually I finally reached the gates.  I honestly didn’t know I could walk or swim  perhaps in such a rapid manner."
+    scene castle with dissolve 
     "I felt small, tinier than a speck of dust. The gates opened upon my presence, but maybe it wasn’t for me; maybe it was for someone else, so I waited. I waited until it dawned on me that it was better to enter and delight myself with the giant banquet they must’ve put together for everyone."
+    scene castle_inside with dissolve
     "Down in the halls, the walls seemed to tell a history—an untold history of eons ago, when things were just beginning. Over and over, I passed through tapestries that revealed the agony of many."
     "I couldn’t understand the reason why they were there, but then I heard something."
     "Still unclothed, I clung to one of the tapestries with an intricate pattern, trying to cover my shame with it."
@@ -37,15 +39,17 @@ label day_2:
     "An earthquake reverberated through the entire castle, as if it were dismantling, and so the pillars shifted and bent to form shapes, which repeated on themselves like they were mirrored or repeated."
     "The tapestry covering my jewels had been lifted. I started to lose my balance once I noticed a roll of pillars coming my way."
     "I had to flee, but before doing that, I saw them both looking directly at me or maybe past me. A paw grabbed the being that looked to be made out of stars by the giant one that looked like a rock with thousands of symbols in boiling red."
-    "I closed my eyes to prepare for the incoming giant hands… but nothing happened."
+    scene black with dissolve
+    "I closed my eyes to prepare for the incoming giant hands... but nothing happened."
     "Instead, I felt as if sharp blades of cold were piercing through my skin… I was falling, much to my disgrace.  When I was about to hit the ground, bracing myself tightly, I was jolted from my dream.  In spite of all efforts to make myself more comfortable, the little to no space given to me in my slumber was incredibly tiny."
     "Still, I figured out it would be better if Miq spent the night in a more comfortable manner since he must’ve had a long train trip."
     "As soon as I thought of what his travel must have been like, a chilly sensation brushed against my fur.  Once the morning light rays slapped my eyes, it was almost identical to what I felt yesterday, in the same order of events, but this time his bed was…"
     "Empty. Devoid of the white fluffy mountain that inhabited my bed yesterday night, only a few strands of his fur matted my sheets. I wasn’t expecting him to be gone so early. Maybe he just went for a morning jog? Wasn’t he on vacation?"
     "I directed myself to the bedroom door, which was left ajar. I heard sounds coming from the kitchen, and the smell of fried eggs made its way to my nostrils. I was not really used to the idea of being woken up by someone else."
     "I found him wearing an apron, still half naked, preparing breakfast for both of us. " "It was cute in a way, but I got slightly worried that he might’ve needed to go to the nearest store to buy some more…"
-    "Shit!"
-    "I didn’t finish stocking everything and moving all the boxes. Mr. Sorim is going to skin me alive!"
+    "{i}Shit{/i}"
+    "{i}I didn’t finish stocking everything and moving all the boxes. Mr. Sorim is going to skin me alive!{/i}"
+    scene bath with dissolve 
     "Quickly trying to fetch the nearest and cleanest towel available in my bedroom, I quickly took a shower. I suddenly remembered I didn’t do laundry the other day, and so all my clothes were dirty."
     "Trying to think of a possible excuse to skip work today, I heard a knock on the bathroom door. It told me someone bigger was either purposefully trying to tear down my already creaking door or had lost control of his own force."
     m "Ahh, ani bes!?"
@@ -56,14 +60,20 @@ label day_2:
     "That last word echoes through me like he said something completely, utterly unhinged, and yet I can\'t help but think it\'s so considerate of him.  It was perhaps a tad too early for a cute name exchange, though."
     e "Very well, I\'m coming out soon."
     "I was prepared to hurry up so that I would not miss breakfast with my big polar bear. After drying my fur, I quickly grabbed the cleanest set of clothes I had available."
-    "I sat down at the kitchen table waiting for him, but when he turned around, I felt a tinge of disappointment. He placed two fried eggs in front of me, and a simple orange juice."
+    scene kitchen with dissolve
+    "Waiting for him in the kitchen table, but when he turned around, I felt a tinge of disappointment. He placed two fried eggs in front of me, and a simple orange juice."
     "I tried to question his melancholic facade, but I figured it was because I simply lacked the skill to make my house more organized."
     "I should consider organizing my stuff later today, but checking on work is a priority."
-    m "Today I didn’t receive a proper good morning from you! hehehe."
+    show miq YellowCasual BlackSlacks at right
+    m t YellowCasual BlackSlacks "Today I didn’t receive a proper good morning from you! hehehe."
+    show miq -t YellowCasual BlackSlacks 
     e "Very well, you\'ve earned your good morning, my…?"
-    m "Oh, don\'t worry about formality, right now or ever.  Let\'s just call ourselves whatever."
+    show miq -t YellowCasual BlackSlacks
+    m t YellowCasual BlackSlacks  "Oh, don\'t worry about formality, right now or ever.  Let\'s just call ourselves whatever."
     e "Oh, I see, I thought you\'d be mad."
-    m "No worries, sweet."
+    show miq -t YellowCasual BlackSlacks
+    m t YellowCasual BlackSlacks  "No worries, sweet."
+    show miq -t YellowCasual BlackSlacks
     "Again, it echoes through my mind, back and forth, creating a huge weight on me. Given the right circumstances, it might have looked fine, but now it sounds alien to my ears."
     "I wanted to rip my ears apart every damn time he said those words, and yet, it felt genuine, like I was really in for a win."
     "Finally, I\'ve found someone of my liking. And he\'s even a professor at an amazing university."
@@ -127,10 +137,12 @@ label day_2:
     "Akin to a Renaissance painting… No, more like one of those books on occultism with hundreds of ciphers. The book proudly displayed its most confusing page to me, elusive of meaning."
     "I paid no attention as time passed.  I kept exploring every crevice of that image, probably printed page by page with Gutenberg’s invention and distributed only by the most secretive societies of the age, somehow ending up here."
     "A white fur paw passed in front of my muzzle, attempting to bring me back to reality, but my brain barely registered it."
+    show miq YellowCasual BlackSlacks
     m "Hey, bookworm, you’ve been staring at this page for half an hour."
     m "You good, sweet?"
+    show miq -t YellowCasual BlackSlacks
     "His speech jolted me from my self-induced trance. I finally began to reassess my surroundings. It seemed nothing changed apart from a few more books being opened or closed."
-    m "Erin?'
+    m t YellowCasual BlackSlacks "Erin?'
     e 'Oh, hi, I just-"
     e "Well, this book was so interesting.  I think I lost track of time…"
     "Looking rather disheveled of self awareness and still doubting my half-assed excuse, he decided to play along."
@@ -148,6 +160,7 @@ label day_2:
     "Trying to seek meaning through words that. seemed more like a spell, I became thoroughly disappointed."
     "Did I just imagine that? What the fuck is this?"
     "Being pulled out of my mind again by this puzzling book, I close it and toss it over the table in an act of primitive rage or perhaps dread. The scariest thing about the book was knowing it had a beautiful pattern that soon faded away in the blink of my eyes."
+    show miq YellowCasual BlackSlacks
     m "Hey, hey, big boy."
     m "No need to toss it away."
     e "Right, sorry. I just saw something scary flash before my eyes."
@@ -181,10 +194,12 @@ label day_2:
     "But suddenly, death felt more than real; it pierced me through from one end to another.  As I was now kneeling down on the wet pavement, my tears mixed with the dampness."
     "Why did it have to be like this? This was never supposed to happen. Why, why, why?"
     "A pound of white fur rested just above my head, caressing me. It sort of comforted me as I looked up and saw Miq also shed a tear for my now-deceased friend."
+    show miq YellowCasual BlackSlacks
     m "Can we go back home? I gather he’s important to you, but it\'s probably better to leave."
-    "Rising from my ball of sadness, I wanted to scream off the top of my lungs, take Nemmi, and try to revive him. Yet it was too late."
-    "It was too late to do anything.  Too late to talk to him. Too late even to hug him."
-    "…"
+    "Primitive instincts kicked in, my heart rate became unbearable exploding together with my mind concocting solutions to bring him back and still ignoring Miq\'s plea."
+    "To late to do anything.  Too late to talk to him. Too late even to hug him."
+    "{cps=2}...{/cps}"
+    "My trauma response for strong events like these was odd to some, crash and then back to normal within a couple minutes, but I still thought of roundabounds, blaming myself."
     "For the rest of the day, I went home to rest and make sure nothing was water damaged."
     "Some homes were completely flooded by the heavy storm that assaulted us today."
     "I collapsed on the bed in my room, while Miq decided to stay in the living room, sorting his own stuff and checking his small black slate. What was it, he called it again? A cellphone. He told me that thing was basically his entire life; he couldn’t go anywhere without it."
@@ -203,26 +218,34 @@ label day_2:
     "Approaching the sofa where he lay with his chest exposed, I decide to also remove some clothing, and then reaching out to him, I start to stroke his chin and then his white belly, expecting him to wake up, but there was nothing. He doesn’t even budge."
     "An awkward silence makes up for the next couple of seconds. I ceased to pat him, and as if on cue, his slumber got heavier by the second. I chose instead to plant a kiss on his cheeks."
     "Suddenly, he jumped from the little scare."
-    m "Uhh… Earhh, Wot?"
+    show miq YellowCasual BlackSlacks
+    m t YellowCasual BlackSlacks "Uhh… Earhh, Wot?"
+    show miq -t YellowCasual BlackSlacks
     e "Sorry, sorry, I just wanted to wake you up."
-    m "For what?"
+    m t "For what?"
+    show miq -t YellowCasual BlackSlacks
     e "I just wanted to cuddle a little bit before going to bed."
     e "With everything that happened today, I figured out you’d also want-"
-    m "What…Oh, ok; yeah."
-    m "I’m sorry for your loss. He must’ve been a great friend."
+    show miq -t YellowCasual BlackSlacks
+    m t "What…Oh, ok; yeah."
+    m t "I’m sorry for your loss. He must’ve been a great friend."
+    show miq -t YellowCasual BlackSlacks
     e "Hmm, ye."
     e "Sorry, I don’t know if I\'m in the mood for this, but I just wanted a distraction."
-    m "Hey, whatever you want to do I’m down."
+    m t "Hey, whatever you want to do I’m down."
+    show miq -t YellowCasual BlackSlacks
     e "What about… a conversation?"
-    m "Sure."
+    m t "Sure."
     "Snuggling even more to his build, I sigh, indicating the tiredness of what a day today was."
     e "Soo, what made you so interested in this town?"
-    m "Hmm, that is, hmm…"
+    show miq -t YellowCasual BlackSlacks
+    m t "Hmm, that is, hmm…"
     m "For my final thesis in anthropology, I wanted to conduct a study in an isolated village unaffected by 21st-century technologies."
     m "I kept searching villages all across the country, but nothing came of it."
     m "As you probably guessed by the use of my native language, I’m not even from this country."
     e "Ah, I’ve never heard your language before."
-    m "You mean, Mihiq?"
+    show miq -t YellowCasual BlackSlacks
+    m t "You mean, Mihiq?"
     m "It’s the native language of my people."
     m "And though my name comes from Michael, in my community I’m named Pullisawaq Qimma Hupa, which can be just shortened to Qimma."
     m "It’s a name convention quirk of my people. We have different names depending on our position, and sometimes, some names become taboo to say aloud…"
@@ -236,6 +259,7 @@ label day_2:
     m "It’s like this entire place was forgotten by the government, forever trapped in a trance-like state."
     m "Of everyone that once came here, it seems none ever came back."
     m "I’m not afraid that might happen to me, but I also want to stay here for a few more years to document all the possible strange anomalies that are going on here."
+    show miq -t YellowCasual BlackSlacks
     e "Anomalies? You mean, our town is more than just isolated and rainy as hell?"
     m "Exactly."
     m "On top of virtually not existing in current records, your town doesn’t seem to be aware of anything that happens outside its borders."

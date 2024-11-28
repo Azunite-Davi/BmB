@@ -174,20 +174,28 @@ label day_1:
   "But regardless of what he said by my door, it still hurts me that he didn’t trust me with that information. If I had gotten more insight into his life at that time, I could’ve helped him, and we would be starting out the right way."
   "Thinking of Nemmi again made me realize how Nemmi made his presence omnipresent in my mind. The somber twink bear lied to me for years. For god’s sake, can’t I just forget him at least for the rest of today?"
   m t BlackSlacks WhiteDress "Hey! Erin, let’s go. We’re wasting our time here, so let’s be off quickly."
-  show miq -t BlackSlacks WhiteDress
+  show miq 
   e  "Sorry, I got distracted by my thoughts."
   m t BlackSlacks WhiteDress "Less thinking, more walking, my youngling; ahh, you have to show me around this town; it\'s almost like I’m visiting a century in the past."
   show miq -t BlackSlacks WhiteDress
   e  "Yes, let’s be off."
   "Quickly leading the large-built bear to the outside of the train station, exposing a bit of the known lore of the town I’ve been living in for the past 2 years or so... Actually this might not be enough time to know all of this city, but whatever, I keep going on about the lore my mom told me."
-  show park 
+  scene park with dissolve 
   "We got to the central park, which was very empty that day. Despite the large number of tourists, it seemed they were much more interested in other affairs. We both sat by a large tree."
-  "At least Miq and I could have a proper date..."
+  "At least Miq and I could have a proper date..?"
+  show miq BlackSlacks WhiteDress
   m  t BlackSlacks WhiteDress "So, just to be sure… I couldn’t stop thinking about it..."
   m  t BlackSlacks WhiteDress "Are you gay?"
   show miq -t BlackSlacks WhiteDress
-  e  "Oh, you mean liking men? Yes, I am. I am gaayy~"
-  m t BlackSlacks WhiteDress  "Ah, very well, so am I."
+  "Out of nowhere those words pierced me and broke my composture like a mirror shattering."
+  e "Ah, what, oh..."
+  e  "You mean liking men..?" 
+  "{i}Of course idiot. Ruin this time and he's gone!{/i}"
+  "Squeaking a response, I force myself to say it out loud, faking my mild discomfort at the inquiry."
+  e "Yes, I am." 
+  e "{i}I\'m gaayy~{/i}"
+  m t BlackSlacks WhiteDress  "Ah, it took you long enough, hahaha!" 
+  m t BlackSlacks WhiteDress "Very well, and so am I."
   show miq -t BlackSlacks WhiteDress
   "Nervously, I started to tense up a little bit. It was the first time I ever said that word and conformed to my sexual orientation in front of others."
   "It was liberating but also a bit unnerving. I didn’t know what that meant beyond, oh we both like men, so let’s go and fuck each other, am I right???"
@@ -200,7 +208,8 @@ label day_1:
   m t BlackSlacks WhiteDress "Great!"
   show miq -t BlackSlacks WhiteDress
   "He quickly unbuttoned his shirt and loosened his tie. I did the same, but was immediately surrounded by a refreshing wind that brushed against my filthy, sweaty fur from all the work I did earlier lifting."
-  m t BlackSlacks  "Can I hug you?"
+  m t BlackSlacks -WhiteDress "Can I hug you?"
+  show miq -t BlackSlacks
   e  "Eh..."
   e  "Uhh, of course? let’s hug!"
   e  "I mean, it\'s not like I’ve been craving this for a long time-"
@@ -208,18 +217,22 @@ label day_1:
   e  "I’m in a sort of weird situation at the moment, and you came out of nowhere, and we’re already hugging and everything.  Maybe we should go a wee bit slower?"
   m "Ah, don’t let yourself get fooled by these weird feelings, sweetie, let’s just enjoy the moment while it lasts."
   m "You don’t need to worry. Just live in it."
+  show miq -t BlackSlacks
   e  "Right… Maybe I’m overthinking. It\\'s just that you’ve been so upfront about it that-"
   m "Shhh, it’s okay!  Back in my city, we have a much better appreciation of what means to be gay."
   m "Gay bars, nude clubs, gay saunas and much, much more. I go to at least one of those weekly."
+  show miq -t BlackSlacks
   e  "Gay bars? What are those?"
   m "My poor child, a gay bar is a magical place. We, lovers of the masculine build, can hang out and talk about all kinds of things, including sex."
   m "It’s a place of liberation, one of the cornerstones of my own journey of self-discovery. When I was much younger, I went in one and simply snapped. Of course, I knew what I was doing and always went for safe sex."
+  show miq -t BlackSlacks
   e  "I didn’t know those places existed. It must be a one-of-a-kind experience for you to be so open about your sexuality."
   "He noticed I wasn’t looking in his direction anymore. Instead, I was taking in a panorama view of what was in front of me: my very homophobic town, possibly full of closeted queers."
   m "Hey, it\\'s different for everyone. I can’t know or relate to your situation, but what I can do is be here to provide what you may need most.
   The moment those words came out of his mouth, I again felt comforted by his embrace, and my heart started to quieten its pace, returning to its regular beating."
   "I noticed I had been clinging to his exposed chest ever more, embracing him and playing with his nipples. Then I saw the bulge rising in his pants. Mine were getting ever so tight as well."
   m "Hehehe, you’re an eager one! You wanna see what’s hiding underneath these pants?"
+  show miq -t BlackSlacks
   e  "Here? Out in the open?  We’re exposed!  Wouldn’t my house be a better place?"
   "Miq stood up first and then lifted me once I took his hand, shoving me into his exposed belly yet again. I could feel the ever-increasing erection tearing his underwear and his tight jeans that proudly displayed his bulge."
   "Boasting a giant smile, Miq posed like I was some king and he but a mere jester."
