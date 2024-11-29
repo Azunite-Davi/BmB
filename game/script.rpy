@@ -1,6 +1,6 @@
 ﻿
 define e = Character(("Erin"), color="#5f00a8",)
-define m = Character(("Miq"), color="#ffc400", image="miq")
+define m = Character(("Miq"), color="#ff6200", image="miq")
 define n = Character(("Nemmi"), color="#08a800", image="nemmi")
 define o = Character(("Obelisk"), color="#9a0000",)
 define l = Character(("Mul"), color="#000000",)

@@ -66,22 +66,24 @@ label day_2:
     "I should consider organizing my stuff later today, but checking on work is a priority."
     show miq YellowCasual BlackSlacks at right
     m t YellowCasual BlackSlacks "Today I didn’t receive a proper good morning from you! hehehe."
-    show miq -t YellowCasual BlackSlacks 
+    show miq -t YellowCasual BlackSlacks at right
     e "Very well, you\'ve earned your good morning, my…?"
-    show miq -t YellowCasual BlackSlacks
+    show miq -t YellowCasual BlackSlacks at right
     m t YellowCasual BlackSlacks  "Oh, don\'t worry about formality, right now or ever.  Let\'s just call ourselves whatever."
     e "Oh, I see, I thought you\'d be mad."
-    show miq -t YellowCasual BlackSlacks
+    show miq -t YellowCasual BlackSlacks at right
     m t YellowCasual BlackSlacks  "No worries, sweet."
-    show miq -t YellowCasual BlackSlacks
+    show miq -t YellowCasual BlackSlacks at right
     "Again, it echoes through my mind, back and forth, creating a huge weight on me. Given the right circumstances, it might have looked fine, but now it sounds alien to my ears."
     "I wanted to rip my ears apart every damn time he said those words, and yet, it felt genuine, like I was really in for a win."
     "Finally, I\'ve found someone of my liking. And he\'s even a professor at an amazing university."
     "As the last spoonful of breakfast enters my mouth, I am reminded of my job, tormenting my mind again with a myriad of intrusive thoughts. I consider possibly quitting it for the sake of my sanity."
-    "Mr. Sorim abused his staff as much as he liked, and I am his primary target. ""Thankfully, he\'s too old to go to the store’s lower floor very often."
+    "Mr. Sorim abused his staff as much as he liked, and I am his primary target."
+    "Thankfully, he\'s too old to go to the store’s lower floor very often."
     "Coming back to an empty plate, the polar bear seemed happy to touch my fur, but once I noticed his enjoyment, he quickly switched to a more serious demeanor."
     "I was once again prompted to go about my day, but this time, it was different. He was with someone else. Could we already be considered boyfriends?"
-    "No, no, this is getting out of control. ""We\'re just very friendly with each other."
+    "No, no, this is getting out of control."
+    "We\'re just very friendly with each other."
     "I wouldn\'t mind skipping my job once again.  After all, my big polar bear cannot be left unattended to wander astray!"
     m "Hey, were you expecting a letter?"
     m "I pretty much believe those are things from the past, not that I\'m very aware of how technologically adept you guys are-"
