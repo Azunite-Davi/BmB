@@ -53,11 +53,11 @@ label day_3:
     m "But they trusted my judgment and wanted to discuss and see this town for themselves."
     show miq -t BlackSlacks WhiteDress
     e "Oh, that's interesting. So, will your final thesis be about this town?"
-    m t BlackSlacks WhiteDress"Yes, but not quite? Let me think."
+    m t BlackSlacks WhiteDress "Yes, but not quite? Let me think."
     m "No, but yes, but also no? Ok, let me explain."
     m "So, here’s the deal: I’ll need to go back to my campus and organize some of my life to convince my friends over the STEM major to come back with me and study this exact town, and it's time, wobbly things going on…"
     m "And so, I thought about inviting you to go back with me…"
-    show miq -t YellowCasual BlackSlacks
+    show miq -t WhiteDress BlackSlacks
     "Trying to process the huge amount of information given to me all at once, I try to concentrate on every corner of my kitchen."
     "My gaze goes to unreachable places, but I suddenly return to reality once I feel a touch up my shoulder."
     "With a worried expression, Miq tried to address this weird behavior of mine in a much more careful manner with gestures, but failing to communicate his concerns, he spoke."
@@ -79,12 +79,12 @@ label day_3:
     "…"
     m t BlackSlacks WhiteDress"Hmm, yeah…"
     m "Fine, I’m sorry, but if you are to come with me, you must meet some requirements and maybe even change some things."
-    show miq -t YellowCasual BlackSlacks
+    show miq -t WhiteDress BlackSlacks
     "It shouldn’t be too bad to just change. Maybe this is to make us look more presentable and blend in more. But shouldn’t he support me regardless of manners and idioms?"
     e "Hm, what kind of changes?"
     "Maybe I can adapt."
     m t BlackSlacks WhiteDress "I’m thinking, hm…"
-    show miq -t YellowCasual BlackSlacks
+    show miq -t WhiteDress BlackSlacks
     "{i}What if...{/i}"
     m t "To make things work, we need to establish communication at all times, and it’s important to keep some thoughts to ourselves."
     m "Following this, you need a more modern that’s more suitable for 2014, given you’ve been stuck in time, we need to go shopping."
@@ -150,6 +150,8 @@ label day_3:
     "A few minutes ago, the train had gone on its way with several paws sticking out of it, waving goodbye to the others who stayed, including me."
     "A white-furred paw reminded me of quality time we spent together and then out of a window was swiftly pulled back inside the tram" 
     "Only the thick smoke of the tram engine stayed behind."
+    show black with dissolve
     "As did I."
-    "…"
+    "..."
+    centered "The End{cps=5}...{/cps}?"
 return

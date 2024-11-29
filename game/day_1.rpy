@@ -40,6 +40,7 @@ label day_1:
   "{i}Huff… Breathe in… Breathe out…{/i}"
   "Hurriedly preparing to exit after spraying the cologne and putting my shirt on, I heard a knock on the door."
   "Rushing to open it, I’m greeted by a familiar voice. Despite all my brain\'s efforts to ignore it, it was him."
+  scene landscape with dissolve
   show nemmi pout short BlackHoodie 
   n t "Ehh, ehh, hello Erin."
   n  "I-I know it\'s been some time since we last saw each other."
