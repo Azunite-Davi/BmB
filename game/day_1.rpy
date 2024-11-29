@@ -124,31 +124,31 @@ label day_1:
   "Each one had a weird slate device that lit up whenever they tapped on it. I wondered why anyone would need such a piece of technology. One of them explained to me that it was a cell phone, but I decided to call it black slate regardless."
   "Raising my paw to catch the bear’s attention, I luckily managed to be noticed by him. He was a big, strong, tall polar bear. I was already fantasizing about dating him and was prepared to discover what this polar bear was doing in my town."
   "Almost falling face down next to him, the polar bear tightly embraced my left arm, standing me on my feet."
-  show miq BlackSlacks WhiteDress 
+  show miq BlackSlacks WhiteDress shoe 
   e  "Hi, oh, sorry, I just wanted to talk to you-..."
-  show miq t BlackSlacks WhiteDress
+  show miq t BlackSlacks WhiteDress shoe
   "???" "Mavoh… Semberelel."
   "???" "Bi laramye ayotidi Etye-Siril ?"
-  show miq -t BlackSlacks WhiteDress
+  show miq -t BlackSlacks WhiteDress shoe
   "A huge gap formed between us. He spoke in a language so alien to my ears that I couldn’t stop thinking I somehow messed up everything.  I landed three more steps in the wrong direction, wanting to date him even though I didn’t even know his name."
   "Shit, How am I supposed to talk to him if we don’t speak the same language?"
-  show miq t BlackSlacks WhiteDress
+  show miq t BlackSlacks WhiteDress shoe
   "???" "Ah, sorry."
-  show miq -t BlackSlacks WhiteDress
+  show miq -t BlackSlacks WhiteDress shoe
   "Snapping back to reality, a familiar set of words somehow made me think it was simply a misunderstanding, a mismatching of what language to use when traveling abroad."
-  show miq t BlackSlacks WhiteDress
+  show miq t BlackSlacks WhiteDress shoe
   "???" "Ah, I didn’t want you to fall, so are you alright?"
-  show miq -t BlackSlacks WhiteDress
+  show miq -t BlackSlacks WhiteDress shoe
   e  "Yes!"
   e  "I mean, *cough* I’m fine. Thank you for helping me out."
-  show miq t BlackSlacks WhiteDress
+  show miq t BlackSlacks WhiteDress shoe
   "???" "Heh, no problem, kid."
-  show miq -t BlackSlacks WhiteDress
+  show miq -t BlackSlacks WhiteDress shoe
   e  "Hey! I’m 20 years old, sir."
-  show miq t BlackSlacks WhiteDress
+  show miq t BlackSlacks WhiteDress shoe
   "???" "Ah, my apologies. It\'s time for me to stop using size to determine someone’s age."
   "???" "Also, a second apology for not introducing myself."
-  show miq -t BlackSlacks WhiteDress
+  show miq -t BlackSlacks WhiteDress shoe
   "Somehow, I felt a tone of familiarity within his voice, like the taste of thick and sweet honey. If it weren’t for the fact that he was a polar bear, the coincidence of his voice reminding me of honey would have been weird, but I guess all bears must have a strong presence to intimidate people and bring them comfort."
   "If I had already known him previously, I didn’t remember, or this memory has been erased from my ever-growing library of memories.  When we both met each other\'s gaze when I stood up and looked at him, all I could think was how his eyes were a pond revealing his ever-elusive soul."
   "Then it hit me… we were still at the train station, looking at each other. Rather awkwardly, I tried saying something, but I had become a prisoner to silence."
@@ -251,12 +251,16 @@ label day_1:
   m t BlackSlacks "Hmm, maybe, maybe not. It’s a matter of going against the natural order of things, being against society as a whole, and yelling in the face of all those who have oppressed us."
   m t BlackSlacks "Spit on their face and tell them to fuck off! Because I won’t be dragged and trapped in their lies, just to be discarded in the road to become star-like."
   show miq -t BlackSlacks
-  e t BlackSlacks  "Become a star?"
-  m "It’s from a book I read a few months ago. It\'s really insightful, but now’s not time to talk about books.  There are more urgent matters to attend to."
+  e "Become a star?"
+  m t BlackSlacks "It’s from a book I read a few months ago. It\'s really insightful, but now’s not time to talk about books.  There are more urgent matters to attend to."
+  show miq -t BlackSlacks
+  scene Crayon_village with dissolve
   "The rest of the trip back to my house was silent. Again, the awkward silence seemed to haunt me with uncomfortable feelings that I was doing something wrong, with layers of guilt and ignorance."
+  scene bedroom
   "Finally we both finally got to my house. Much to my surprise, I then remembered my brother would be spending the week at mom’s house. Another great excuse to lay down with my bear and not have to worry about my brother shenanigans."
   "Hastily laying his luggage in the living room, we both headed directly to my stuffy bedroom."
-  m "So this is your bedroom. It’s in quite a messy state, but I can bear this. I’ve been in filthier places myself."
+  show miq BlackSlacks with moveinleft
+  m t BlackSlacks "So this is your bedroom. It’s in quite a messy state, but I can bear this. I’ve been in filthier places myself."
   show miq -t BlackSlacks
   e  "Ah, sorry, I just never had the time to clean this mess. I never expected someone to join me for the night, so I threw my clothes everywhere."
   m t BlackSlacks "I don’t mind that."
@@ -267,6 +271,7 @@ label day_1:
   "Another request I never thought I’d hear. Given we’re both adults and maybe could get down to some fun being naked, why not?"
   "Already unfastening my pants, I let them fall to the ground. I was a bit hesitant to be naked in front of someone else for the first time. I just embraced his pace and removed my briefs."
   "Before he could react any further, I let myself be truly loose for once. Since he was laying on my bed, I needed to show him I was the master in this house. Falling onto his hefty frame, I kissed him.  Every time I parted his lips with mine, I wanted more, and more, and more."
+  show miq -BlackSlacks -shoe
   "I didn’t even take note that he was also naked from the beginning. Apparently once I started stripping down, he seized the opportunity to free himself from the confines of his pants. I started playing with nipples again, and the more I kissed him, the more our bodies seemed to melt into a single being."
   "The more we kissed, the more excited I got. I penetrated his mouth with my tongue, and he, mine.  I could taste his saliva all over my lips. It moistened my teeth, my tongue, my lips, and even some of my chin."
   "Finally, my hand made its way to his back, and we slowly began to embrace. I felt his backside and, eventually, his butt.  He quickly followed suit before deciding to lovingly bite my neck.  It was just the right amount of pressure to force me to moan."
@@ -274,15 +279,19 @@ label day_1:
   "He moaned the entire time, perhaps due to pain from pinching his nipples, or maybe from pleasure.  His sensitive nips of his were amazingly fun to play with.  Before I knew it, I was back to kissing him and our saliva met yet again under one another’s lingual embrace."
   "We broke the sloppy kiss and gazed into each other’s eyes."
   e  "I like you, and I like where this is going~"
-  m "I think you’re ready for this then..."
-  m "I’ll be back in a second."
+  show miq -BlackSlacks -shoe
+  m t "I think you’re ready for this then..."
+  m t "I’ll be back in a second."
   "Breaking their cuddling frot session, he went back to the living room, naked as nature made us all, and ruffled in the luggage he brought."
   "There, he took out a bottle and a few packages of what looked like stickers with a round protrusion. He ripped one of those packages to reveal a condom, a rather thin condom, and a bottle, I assumed to contain lubricant."
-  m "Here, take this, and let’s get down to business."
+  m t "Here, take this, and let’s get down to business."
+  show miq -BlackSlacks -shoe -t
   e  "But I don’t know how to put one of these on."
   "He made a hand gesture for me to position my erect cock, and proceeded to dress my meat with the thinnest protection I could imagine. He took a bit of lube from the bottle and splashed it on the constrictive case that my cock was currently in."
+  scene black
   "After the impromptu sex ed lesson, he turned around, exposing his pulsating butthole. It looked so hungry, I wanted to fill it. I needed to! And so, I awkwardly positioned myself on top of him, trying my best to align my cock with his hole."
-  "It felt… different than I expected once I slid into his ass.  The warm walls of his insides were comfortably hugging my dick, and so I started to thrust into him.  It was unlike simply jacking off; I lost track of my pace three times. Still, each thrust carried pleasure all over my body in a way I couldn’t put into words.  In fact, sentences and words became moans."
+  "It felt… different than I expected once I slid into his ass.  The warm walls of his insides were comfortably hugging my dick, and so I started to thrust into him.  It was unlike simply jacking off;" 
+  "I lost track of my pace three times. Still, each thrust carried pleasure all over my body in a way I couldn’t put into words.  In fact, sentences and words became moans."
   "The language of sex… everyone knew what that meant. Thrust after thrust, I felt my rock-solid dick go in and out. I tried to be attentive to his moans as well.  It seemed he really loved receiving such a hard rod."
   "Though I’m at least 30 centimeters smaller than him in stature, I packed a huge meat.   Lost in the lust of the moment, though, those thoughts melted in meaning, and all that mattered at the moment was to keep banging him. I quickened my pace, and soon I felt the ultimate pleasure once I filled the condom with ropes of cum."
   "I didn’t want to pull out of him just yet, but I felt entirely drained of energy. It made me realize sex demands great physical strength and preparation. Stacking only a few boxes in the storage room tires me. Having sex for the first time was amazing, and though exhausted, it was a reward a million times better than money."
@@ -293,5 +302,4 @@ label day_1:
   "I tried to snuggle close to him.  He suddenly stopped snoring and, making a rough sound, rolled to the other side of the bed. Finally, he gave me a proper space to sleep."
   "And so I fell asleep, still wanting to talk to him.  I hoped we could finish our night on a more communicative note, something like: Woah dude, I didn’t know sex was this amazing! But it may be odd to talk about sex that way.  It may be best not to talk to him right now since he’s all sleepy, right?"
   "Maybe, tomorrow, we can talk more about things… about us."
-
-jump day_2
+  jump day_2

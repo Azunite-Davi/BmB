@@ -1,5 +1,6 @@
 label prologue:
     show landscape with dissolve
+    play music "Whiteout.ogg" fadein 0.5
     "The cold bitterness that plagued the still hall of moment-captured memories and sealed cardboard boxes felt extremely vacant with forgotten ghosts from yore that day."
     "Moving away from chaos was always a dream of ours, and in 1958, Dad finally got the perfect opportunity…"
     "Dad was the pillar that held us together against all the world’s uncertainties."  
@@ -21,4 +22,5 @@ label prologue:
     "From that day on, I never saw Nemmi again. Even at school, he was always absent, skipping class or not even leaving his home. Some kids thought about visiting him."
     "But it was as if Nemmi was gone…"
     "And once again, I was afraid."
+    stop music fadeout 0.5
     jump day_1

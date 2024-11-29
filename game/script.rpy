@@ -51,7 +51,7 @@ layeredimage miq:
             "sprites/miq/Closed.webp"
 
     group shoe:
-        attribute boots default:
+        attribute boots:
             "sprites/miq/Boots.webp"
 
 layeredimage nemmi:
@@ -132,3 +132,5 @@ image trainstation = "bg/trainstation.jpg"
 image park = "bg/CityPark.jpg"
 image bath = "bg/bathroom.jpg"
 image kitchen = "bg/kitchen.jpg"
+image book_1 = "bg/book_1.png"
+image book_2 = "bg/book_2.png"
