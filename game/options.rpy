@@ -45,6 +45,7 @@ define build.name = "Bear_My_Breath"
 ## These three variables control, among other things, which mixers are shown
 ## to the player by default. Setting one of these to False will hide the
 ## appropriate mixer.
+
 define config.default_music_volume = 0.7
 define config.default_sfx_volume = 0.7
 define config.has_sound = True

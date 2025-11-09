@@ -1,13 +1,63 @@
-﻿
-define e = Character(("Erin"), color="#5f00a8",)
-define m = Character(("Miq"), color="#ff6200", image="miq")
-define n = Character(("Nemmi"), color="#08a800", image="nemmi")
-define o = Character(("Obelisk"), color="#9a0000",)
-define l = Character(("Mul"), color="#000000",)
+﻿define e = Character(("Erin"), color="#5f00a8", what_prefix="“", what_suffix="”")
+define m = Character(("Miq"), color="#ff6200", image="miq", what_prefix="“", what_suffix="”")
+define n = Character(("Nemmi"), color="#08a800", image="nemmi", what_prefix="“", what_suffix="”")
+define o = Character(("Obelisk"), color="#9a0000", image="ob", what_prefix="“", what_suffix="”")
+define l = Character(("Mul"), color="#000000", what_prefix="“", what_suffix="”")
+
+image ob tf:
+    zoom 0.25
+    "sprites/Obelisk/ob tf/ob tf 2.png "
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 3.png "
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 4.png "
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 5.png "
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 6.png "
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 7.png "
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 8.png "
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 9.png "
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 10.png" 
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 11.png" 
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 12.png" 
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 13.png" 
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 14.png" 
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 15.png" 
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 16.png" 
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 17.png" 
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 18.png" 
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 19.png" 
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 20.png" 
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 21.png" 
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 22.png" 
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 23.png"
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 24.png"
+    0.15
+    "sprites/Obelisk/ob tf/ob tf 25.png "
+    
 
 layeredimage miq:
     zoom 0.35
-
+    
 
     group body:
         attribute body default:
@@ -56,6 +106,7 @@ layeredimage miq:
 
 layeredimage nemmi:
     zoom 0.35
+
 
     group body:
         attribute backhair default:
@@ -119,18 +170,4 @@ layeredimage nemmi:
             "sprites/nemmi/8 muzzle/Surprise.png"
         attribute grit:
             "sprites/nemmi/8 muzzle/Grit.png"
-image Crayon_village = "bg/Crayon Village Slope.png" 
-image library = "bg/library.jpg" 
-image living_room = "bg/Living Room.png" 
-image moutain = "bg/Mountain Day.png" 
-image landscape = "bg/Abstract landscape.png" 
-image bedroom = "bg/Bedroom.png"
-image dream = "bg/mountain_dream.png"
-image castle = "bg/castle.jpg"
-image castle_inside = "bg/castle-interior.jpg"
-image trainstation = "bg/trainstation.jpg"
-image park = "bg/CityPark.jpg"
-image bath = "bg/bathroom.jpg"
-image kitchen = "bg/kitchen.jpg"
-image book_1 = "bg/book_1.png"
-image book_2 = "bg/book_2.png"
+
